@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs&count_private=true&show_icons=true)](https://github.com/kimtth)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtth&langs_count=20&hide=GAP,Rust&layout=compact)](https://github.com/kimtth)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kimtth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtth&langs_count=10&hide=GAP,jupyter%20notebook&layout=compact)](https://github.com/kimtth)
 
 <!--
 **kimtth/kimtth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
