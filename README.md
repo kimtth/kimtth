@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 😄 I like going through IT trends and technology. This archive is a personal space for learning and references.
-- 📫 If you visit here through LinkedIn, I just open to the public for the evidence that I have been experienced.  
 - Especially when you want to find the repositories for only my work. 
-- ``` Please click "Repositories" then filter by "Type: Sources". ``` + `software-architect-mindmap` repository
+- 📫 ``` Please click "Repositories" then filter by "Type: Sources". ``` + `software-architect-mindmap` repository
 
 ### sub-accounts
 - [dora-taco (github.com)](https://github.com/dora-taco)
