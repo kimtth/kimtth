@@ -5,6 +5,18 @@
 - Especially when you want to find the repositories for only my work. 
 - ``` Please click "Repositories" then filter by "Type: Sources". ``` + `software-architect-mindmap` repository
 
+### sub-accounts
+- [dora-taco (github.com)](https://github.com/dora-taco)
+- [skeletonKim (github.com)](https://github.com/skeletonKim/software-architect-mindmap)
+
+<p>
+  <a href="https://www.linkedin.com/in/taeho-kim-718020157/" rel="nofollow noreferrer">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> LinkedIn
+  </a> &nbsp; 
+</p>
+
+📛[Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
+
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kimtth)
 -->
