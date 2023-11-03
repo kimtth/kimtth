@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-- 😄 I enjoy exploring current IT trends and technologies. This archive is my personal space for learning and reference purposes.
+- 😄 I enjoy exploring current IT trends and technologies.
+- This archive is my personal space for learning and reference purposes.
+- GitHub sub-accounts 📫 [dora-taco (github.com)](https://github.com/dora-taco)
+<!--
 -  If you're interested in finding repositories that contain my work,
 -  📫 ```please click on "Repositories" and then filter by "Type: Sources" ```.
-
+-->
+<!--
 ### sub-accounts
 - [dora-taco (github.com)](https://github.com/dora-taco)
-- [skeletonKim (github.com)](https://github.com/skeletonKim/software-architect-mindmap)
+ - [skeletonKim (github.com)](https://github.com/skeletonKim/software-architect-mindmap) -->
 
-<p>
-  <a href="https://www.linkedin.com/in/taeho-kim-718020157/" rel="nofollow noreferrer">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> LinkedIn
-  </a> &nbsp; 
-</p>
 
-📛[Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
+<a href="https://www.linkedin.com/in/taeho-kim-718020157/" rel="nofollow noreferrer">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> LinkedIn
+</a> &nbsp;
+
+📛 [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
 
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kimtth)
