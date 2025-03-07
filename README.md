@@ -2,7 +2,7 @@
 
 - :basecampy: I enjoy exploring current IT trends and technologies.
 - This repository is a space for my learning and reference.
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github #1](https://github.com/kimtth) :whale: [Github #2](https://github.com/dora-taco) | :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) :whale:| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
 
 <!--
 -  If you're interested in finding repositories that contain my work,
