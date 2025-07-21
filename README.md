@@ -12,6 +12,16 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30)](https://github.com/kimtth)
 
+Pinned  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-llm)](https://github.com/kimtth/awesome-azure-openai-llm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=software-architect-mindmap)](https://github.com/kimtth/software-architect-mindmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=aosa_pdf)](https://github.com/kimtth/aosa_pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=mcp-aoai-web-browsing)](https://github.com/kimtth/mcp-aoai-web-browsing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=visual-genius)](https://github.com/kimtth/visual-genius)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook)](https://github.com/kimtth/azure-openai-llm-cookbook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent)](https://github.com/kimtth/autogen-quant-invest-agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform)](https://github.com/kimtth/agentic-connected-vehicle-platform)
+
 <!--
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kimtth?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 -->
