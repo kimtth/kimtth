@@ -93,8 +93,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/rag-preprocessing-multimodal-chunking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=rag-preprocessing-multimodal-chunking" alt="rag-preprocessing-multimodal-chunking" />
+      <a href="https://github.com/kimtth/rag-multimodal-semantic-chunking">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=rag-multimodal-semantic-chunking" alt="rag-multimodal-semantic-chunking" />
       </a>
     </td>
   </tr>
