@@ -12,90 +12,93 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30)](https://github.com/kimtth)
 
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/awesome-azure-openai-llm">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-llm" alt="awesome-azure-openai-llm" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/software-architect-mindmap">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=software-architect-mindmap" alt="software-architect-mindmap" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/aosa_pdf">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=aosa_pdf" alt="aosa_pdf" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/mcp-aoai-web-browsing">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=mcp-aoai-web-browsing" alt="mcp-aoai-web-browsing" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/visual-genius">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=visual-genius" alt="visual-genius" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook" alt="azure-openai-llm-cookbook" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/autogen-quant-invest-agent">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent" alt="autogen-quant-invest-agent" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform" alt="agentic-connected-vehicle-platform" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/mini-copilot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=mini-copilot" alt="mini-copilot" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/ms-build-learn-notes">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes" alt="ms-build-learn-notes" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/vscode-extension-lsp-pfx">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=vscode-extension-lsp-pfx" alt="vscode-extension-lsp-pfx" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/graph-rag-azure-openai">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=graph-rag-azure-openai" alt="graph-rag-azure-openai" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kimtth/multi-agent-simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=multi-agent-simulator" alt="multi-agent-simulator" />
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/kimtth/rag-preprocessing-multimodal-chunking">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=rag-preprocessing-multimodal-chunking" alt="rag-preprocessing-multimodal-chunking" />
-    </a>
-  </td>
-</tr>
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/awesome-azure-openai-llm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-llm" alt="awesome-azure-openai-llm" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/software-architect-mindmap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=software-architect-mindmap" alt="software-architect-mindmap" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/aosa_pdf">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=aosa_pdf" alt="aosa_pdf" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/mcp-aoai-web-browsing">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=mcp-aoai-web-browsing" alt="mcp-aoai-web-browsing" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/visual-genius">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=visual-genius" alt="visual-genius" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook" alt="azure-openai-llm-cookbook" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/autogen-quant-invest-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent" alt="autogen-quant-invest-agent" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform" alt="agentic-connected-vehicle-platform" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/mini-copilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=mini-copilot" alt="mini-copilot" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/ms-build-learn-notes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes" alt="ms-build-learn-notes" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/vscode-extension-lsp-pfx">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=vscode-extension-lsp-pfx" alt="vscode-extension-lsp-pfx" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/graph-rag-azure-openai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=graph-rag-azure-openai" alt="graph-rag-azure-openai" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/multi-agent-simulator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=multi-agent-simulator" alt="multi-agent-simulator" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/rag-preprocessing-multimodal-chunking">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=rag-preprocessing-multimodal-chunking" alt="rag-preprocessing-multimodal-chunking" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 Pinned  
