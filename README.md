@@ -97,8 +97,6 @@
   </td>
 </tr>
 
-
-
 <!--
 Pinned  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-llm)](https://github.com/kimtth/awesome-azure-openai-llm)
