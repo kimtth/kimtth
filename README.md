@@ -62,6 +62,8 @@
       </a>
     </td>
   </tr>
+  </table>
+  <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/kimtth/mini-copilot">
