@@ -12,6 +12,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30)](https://github.com/kimtth)
 
+#### Popular
 
 <table>
   <tr>
@@ -45,24 +46,27 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook" alt="azure-openai-llm-cookbook" />
+      <a href="https://github.com/kimtth/autogen-quant-invest-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent" alt="autogen-quant-invest-agent" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/autogen-quant-invest-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent" alt="autogen-quant-invest-agent" />
+      <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook" alt="azure-openai-llm-cookbook" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform" alt="agentic-connected-vehicle-platform" />
+      <a href="https://github.com/kimtth/cisco-config-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=cisco-config-generator" alt="cisco-config-generator" />
       </a>
     </td>
   </tr>
   </table>
+
+#### Learning & Experiments
+  
   <table>
   <tr>
     <td width="50%">
@@ -97,6 +101,18 @@
     <td width="50%">
       <a href="https://github.com/kimtth/rag-multimodal-semantic-chunking">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=rag-multimodal-semantic-chunking" alt="rag-multimodal-semantic-chunking" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/small-dsl-eclipse-debug">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=small-dsl-eclipse-debug" alt="small-dsl-eclipse-debug" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform" alt="agentic-connected-vehicle-platform" />
       </a>
     </td>
   </tr>
