@@ -104,7 +104,7 @@
       </a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%">
       <a href="https://github.com/kimtth/small-dsl-eclipse-debug">
         <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=small-dsl-eclipse-debug&cache_seconds=1000" alt="small-dsl-eclipse-debug" />
@@ -113,6 +113,18 @@
     <td width="50%">
       <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
         <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform&cache_seconds=1000" alt="agentic-connected-vehicle-platform" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/agent-ochestration-sk-autogen">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-ochestration-sk-autogen&cache_seconds=1000" alt="agent-ochestration-sk-autogen" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/agent-ai-foundry-tool-use">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-ai-foundry-tool-use&cache_seconds=1000" alt="agent-ai-foundry-tool-use" />
       </a>
     </td>
   </tr>
