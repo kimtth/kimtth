@@ -87,8 +87,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/graph-rag-azure-openai">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=graph-rag-azure-openai&cache_seconds=1000" alt="graph-rag-azure-openai" />
+      <a href="https://github.com/kimtth/rag-graph-rag-azure-openai">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=rag-graph-rag-azure-openai&cache_seconds=1000" alt="rag-graph-rag-azure-openai" />
       </a>
     </td>
   </tr>
