@@ -123,8 +123,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agent-ai-foundry-tool-use">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-ai-foundry-tool-use&cache_seconds=1000" alt="agent-ai-foundry-tool-use" />
+      <a href="https://github.com/kimtth/purview-driven-azure-ai-search-index">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=purview-driven-azure-ai-search-index&cache_seconds=1000" alt="purview-driven-azure-ai-search-index" />
       </a>
     </td>
   </tr>
