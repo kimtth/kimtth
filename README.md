@@ -75,8 +75,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/ms-build-learn-notes">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes&cache_seconds=1000" alt="ms-build-learn-notes" />
+      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform&cache_seconds=1000" alt="agentic-connected-vehicle-platform" />
       </a>
     </td>
   </tr>
@@ -87,8 +87,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/rag-graph-rag-azure-openai">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=rag-graph-rag-azure-openai&cache_seconds=1000" alt="rag-graph-rag-azure-openai" />
+      <a href="https://github.com/kimtth/rag-multimodal-semantic-chunking">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=rag-multimodal-semantic-chunking&cache_seconds=1000" alt="rag-multimodal-semantic-chunking" />
       </a>
     </td>
   </tr>
@@ -99,8 +99,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/rag-multimodal-semantic-chunking">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=rag-multimodal-semantic-chunking&cache_seconds=1000" alt="rag-multimodal-semantic-chunking" />
+      <a href="https://github.com/kimtth/rag-graph-rag-azure-openai">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=rag-graph-rag-azure-openai&cache_seconds=1000" alt="rag-graph-rag-azure-openai" />
       </a>
     </td>
   </tr>
@@ -111,8 +111,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform&cache_seconds=1000" alt="agentic-connected-vehicle-platform" />
+      <a href="https://github.com/kimtth/ms-build-learn-notes">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes&cache_seconds=1000" alt="ms-build-learn-notes" />
       </a>
     </td>
   </tr>
