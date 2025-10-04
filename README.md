@@ -94,8 +94,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/agent-multi-agent-simulator">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-multi-agent-simulator&cache_seconds=1000" alt="multi-agent-simulator" />
+      <a href="https://github.com/kimtth/awesome-azure-openai-copilot">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-copilot&cache_seconds=1000" alt="awesome-azure-openai-copilot" />
       </a>
     </td>
     <td width="50%">
