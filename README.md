@@ -46,8 +46,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/autogen-quant-invest-agent">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=autogen-quant-invest-agent&cache_seconds=1000" alt="autogen-quant-invest-agent" />
+      <a href="https://github.com/kimtth/agent-quant-stock-invest">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-quant-stock-invest&cache_seconds=1000" alt="agent-quant-stock-invest" />
       </a>
     </td>
   </tr>
