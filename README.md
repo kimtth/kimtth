@@ -41,13 +41,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/visual-genius">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=visual-genius&cache_seconds=1000" alt="visual-genius" />
+      <a href="https://github.com/kimtth/agent-quant-stock-invest">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-quant-stock-invest&cache_seconds=1000" alt="agent-quant-stock-invest" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agent-quant-stock-invest">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-quant-stock-invest&cache_seconds=1000" alt="agent-quant-stock-invest" />
+      <a href="https://github.com/kimtth/visual-genius">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=visual-genius&cache_seconds=1000" alt="visual-genius" />
       </a>
     </td>
   </tr>
@@ -70,13 +70,13 @@
   <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/mini-copilot">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=mini-copilot&cache_seconds=1000" alt="mini-copilot" />
+      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform&cache_seconds=1000" alt="agentic-connected-vehicle-platform" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agentic-connected-vehicle-platform">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agentic-connected-vehicle-platform&cache_seconds=1000" alt="agentic-connected-vehicle-platform" />
+      <a href="https://github.com/kimtth/mini-copilot">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=mini-copilot&cache_seconds=1000" alt="mini-copilot" />
       </a>
     </td>
   </tr>
@@ -94,8 +94,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/awesome-azure-openai-copilot">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-copilot&cache_seconds=1000" alt="awesome-azure-openai-copilot" />
+      <a href="https://github.com/kimtth/ms-build-learn-notes">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes&cache_seconds=1000" alt="ms-build-learn-notes" />
       </a>
     </td>
     <td width="50%">
@@ -111,20 +111,20 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/ms-build-learn-notes">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-build-learn-notes&cache_seconds=1000" alt="ms-build-learn-notes" />
+      <a href="https://github.com/kimtth/awesome-azure-openai-copilot">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-copilot&cache_seconds=1000" alt="awesome-azure-openai-copilot" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/agent-ochestration-sk-autogen">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-ochestration-sk-autogen&cache_seconds=1000" alt="agent-ochestration-sk-autogen" />
+      <a href="https://github.com/kimtth/agent-data-analyst-stream-chainlit">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-data-analyst-stream-chainlit&cache_seconds=1000" alt="agent-data-analyst-stream-chainlit" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/agent-data-analyst-stream-chainlit">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=agent-data-analyst-stream-chainlit&cache_seconds=1000" alt="purview-driven-azure-ai-search-index" />
+      <a href="https://github.com/kimtth/azure-bicep-app-service-cosmos-db">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=azure-bicep-app-service-cosmos-db"&cache_seconds=1000" alt="azure-bicep-app-service-cosmos-db"" />
       </a>
     </td>
   </tr>
