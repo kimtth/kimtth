@@ -53,8 +53,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook&cache_seconds=1000" alt="azure-openai-llm-cookbook" />
+      <a href="https://github.com/kimtth/ms-fabric-e2e-tutorial">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-fabric-e2e-tutorial&cache_seconds=100" alt="ms-fabric-e2e-tutorial" />
       </a>
     </td>
     <td width="50%">
@@ -111,8 +111,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/kimtth/awesome-azure-openai-copilot">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-copilot&cache_seconds=1000" alt="awesome-azure-openai-copilot" />
+      <a href="https://github.com/kimtth/mini-sqlite-db-py-go-rust">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=mini-sqlite-db-py-go-rust&cache_seconds=1000" alt="mini-sqlite-db-py-go-rust" />
       </a>
     </td>
   </tr>
@@ -125,6 +125,25 @@
     <td width="50%">
       <a href="https://github.com/kimtth/azure-bicep-app-service-cosmos-db">
         <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=azure-bicep-app-service-cosmos-db"&cache_seconds=1000" alt="azure-bicep-app-service-cosmos-db"" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### Cookbooks & Awesome Lists
+
+> _Note: [Awesome Azure OpenAI & Copilot](https://github.com/kimtth/awesome-azure-openai-copilot) list follows the official [Awesome](https://github.com/sindresorhus/awesome) repo rules._
+> 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kimtth/awesome-azure-openai-copilot">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=awesome-azure-openai-copilot&cache_seconds=1000" alt="awesome-azure-openai-copilot" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kimtth/azure-openai-llm-cookbook">
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=azure-openai-llm-cookbook"&cache_seconds=1000" alt="azure-openai-llm-cookbook" />
       </a>
     </td>
   </tr>
