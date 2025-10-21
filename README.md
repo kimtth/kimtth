@@ -54,7 +54,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/kimtth/ms-fabric-e2e-tutorial">
-        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-fabric-e2e-tutorial&cache_seconds=100" alt="ms-fabric-e2e-tutorial" />
+        <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/pin/?username=kimtth&repo=ms-fabric-e2e-tutorial&cache_seconds=1000" alt="ms-fabric-e2e-tutorial" />
       </a>
     </td>
     <td width="50%">
