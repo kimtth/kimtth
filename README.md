@@ -109,7 +109,7 @@ A+ 2025/07/22
 - [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): 🤖⚙️🔧🦾👩‍💻💻**Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder
 - [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ⚙️ using schema metadata 📋 from **Microsoft Purview** (Data Governance)🔍
 
-#### RAG
+#### RAG & Search
 
 - [azure-ai-search-skill-explorer](https://github.com/kimtth/azure-ai-search-skill-explorer): [WIP] 🔍🧩 Azure AI Search **Skill I/O** 📥📤
 - [azure-document-intelligence-vs-markitdown-vs-tika](https://github.com/kimtth/azure-document-intelligence-vs-markitdown-vs-tika): **PDF extraction** samples comparing **Azure Document Intelligence** (layout model) 🏢 vs Markitdown ✍️vs Apache Tika
@@ -147,8 +147,6 @@ A+ 2025/07/22
 - [windows-styled-chat](https://github.com/kimtth/windows-styled-chat): **Windows-Styled** Chat UI [**vibe coding**]💬🖥️
 
 <!--
-#### WIP
-
 - [dirty-bot-play-fullstack](https://github.com/kimtth/dirty-bot-play-fullstack): The playgrounds of full stack using simple bot screen
 - [open-vn-person-count](https://github.com/kimtth/open-vn-person-count): 🧑‍🤝‍🧑 Incomplete project. This project is pair with "open-vn-person-count-ui" repository. By Intel inference engine called "Open-Vino". / CSRNet, and People counting model from Intel model zoo.
 - [open-vn-person-count-ui](https://github.com/kimtth/open-vn-person-count-ui): 🧑‍🤝‍🧑 Incomplete project. This project is pair with "open-vn-person-count" repository. By Intel inference engine called "Open-Vino".
