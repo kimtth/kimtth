@@ -10,6 +10,8 @@ A+ 2025/07/22
 
 [![Github stats](https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30&cache_seconds=1000)](https://github.com/kimtth)
 
+**[`↓↓        pinned & popular        `](#utility)**
+
 #### Agent
 
 [a2a-protocol-semantic-kernel](https://github.com/kimtth/a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) 🤖 protocol implementation using **Semantic Kernel** (unofficial)  
@@ -68,7 +70,7 @@ A+ 2025/07/22
 [openstack-dev-cloudshell](https://github.com/kimtth/openstack-dev-cloudshell): 📚 **OpenStack** integration with Quali **CloudShell**  
 [tora-auto-ui-opencv](https://github.com/kimtth/tora-auto-ui-opencv): 🐯 **UI Automation** By **OpenCV** (Image Template Matching).  
 
-#### Domain
+#### Domain & Industry
 
 [agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 💸 **Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
 [agentic-connected-vehicle-platform](https://github.com/kimtth/agentic-connected-vehicle-platform): 🚗 Agentic **Connected Vehicle** Platform — Agent **orchestration**, MCP, Avatar TTS  
@@ -155,3 +157,5 @@ A+ 2025/07/22
 [fastapi-oai-showcase](https://github.com/kimtth/fastapi-oai-showcase): Minimal API Server (🚧Work in progress). All features are not necessary to demo. Just minimum to work. / ui-repo: nextjs-typescript-learn
 [nextjs-typescript-learn](https://github.com/kimtth/nextjs-typescript-learn): Minimal ChatUI (🚧Work in progress). All features are not necessary to demo. Just minimum to work. / api-repo: fastapi-oai-showcase
 -->
+
+**[`↑↑        back to top        `](#agent)**
