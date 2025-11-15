@@ -10,7 +10,7 @@ A+ 2025/07/22
 
 [![Github stats](https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30&cache_seconds=1000)](https://github.com/kimtth)
 
-**[`↓↓        pinned & popular        `](#utility)**
+**[`↓↓        scroll to pinned & popular        `](#utility)**
 
 #### Agent
 
