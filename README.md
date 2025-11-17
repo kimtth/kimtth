@@ -24,6 +24,7 @@ A+ 2025/07/22
 [agent-ai-foundry-tool-use](https://github.com/kimtth/agent-ai-foundry-tool-use): 🤖 **Tool use** patterns with an agent built using **Azure AI Foundry**.  
 [agent-auto-eval-azure-aoai-sk](https://github.com/kimtth/agent-auto-eval-azure-aoai-sk): 🤖 **Agent testing** automation by simulating users and agents with **judge** (langwatch-scenario)  
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): ⚡ Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
+[agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): Parlant's **ARQ (Attentive Reasoning Queries)** into **🔷Microsoft Agent Framework**  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): 🤖 A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): 🤖 AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): 🤖 **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
