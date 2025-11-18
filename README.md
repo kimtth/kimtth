@@ -2,7 +2,7 @@
 
 - :basecampy: I enjoy exploring current IT trends and technologies.
 - This repository is a space for my micro-learning and reference.
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) :whale:| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
+- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) [:whale:](https://gitranks.com/profile/kimtth/ranks)| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)
 
 <!--
 A+ 2025/07/22
@@ -30,6 +30,7 @@ A+ 2025/07/22
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): 🤖 **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
 [azure-func-sk-agent-cosmos-db](https://github.com/kimtth/azure-func-sk-agent-cosmos-db): 🤖 Agent with **Azure Function** and **Cosmos DB** (Managed Identity) Conversation History  
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing): 🌐 A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
+[mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ♾️ via an **Azure DevOps MCP** Server  
 [mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): 🏓 An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [fix for demo] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 [WindowsAgentArena_mod](https://github.com/kimtth/WindowsAgentArena_mod): [Mod] **Windows Agent Arena** (WAA) 🪟 for **testing** and **benchmarking** of multi-modal AI agents.
