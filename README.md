@@ -114,7 +114,8 @@ A+ 2025/07/22
 
 #### PaaS & Platform
 
-[ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial): 🌿 **Microsoft Fabric** E2E Tutorial: 🌊**Lakehouse** | 💙Data Science | ⚡Real-Time Intelligence | 🪣Data warehouse  
+[ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial): 🌿 **Microsoft Fabric** E2E Tutorial: 🌊Lakehouse | 💙Data Science | ⚡Real-Time Intelligence | 🪣Data warehouse  
+[ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿 **Microsoft Fabric** Hands-on  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** 📊 **Cross Join** Report Example 🔗 — Combine Tables with No Key 🔄  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): 🤖 **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ⚙️ using schema metadata 📋 from **Purview** 🔍  
