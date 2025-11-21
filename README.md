@@ -65,6 +65,7 @@ A+ 2025/07/22
 [numpy-multi-dims-visualizer](https://github.com/kimtth/numpy-multi-dims-visualizer): 🔢 An interactive **D3.js-powered** web app to visualize, and understand **multi-dimensional** NumPy arrays.  
 [pyspark-tika-text-extraction](https://github.com/kimtth/pyspark-tika-text-extraction): 🚴 **Data Lake**, **Performance tuning** for text extraction from a huge amount of files.  
 [pytorch-vis-llama-trial](https://github.com/kimtth/pytorch-vis-llama-trial): 💥Hello **PyTorch**! **Llama**  
+[twitter-recommender-mimic-mini-recsys](https://github.com/kimtth/twitter-recommender-mimic-mini-recsys): Mini-Recsys: A **Twitter Recommender Mimic** 🧩🕸️📐  
 
 #### DevOps
 
@@ -151,6 +152,7 @@ A+ 2025/07/22
 [ebook-viewer-memory-pdf](https://github.com/kimtth/ebook-viewer-memory-pdf): Extract the **PDF** from **memory** 💾 to bypass eBook viewer limitations 📖🔐.  
 [Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi](https://github.com/kimtth/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi): [Note] **Troubleshooting** for FNK0043  
 [geotiff-earthquake-extraction](https://github.com/kimtth/geotiff-earthquake-extraction): 🌏 **Earthquake** metadata extraction from **GeoTIFF** provided by Quiet+ API (Japan)  
+[google-fitness-synthetic-steps](https://github.com/kimtth/google-fitness-synthetic-steps): Generating synthetic **Google Fit step-count** 🚶data for development  
 [podcast-download-simple](https://github.com/kimtth/podcast-download-simple): 🎧 A simple, **standalone HTML** file for downloading **podcast** episodes.  
 [powershell-git-commit-with-split](https://github.com/kimtth/powershell-git-commit-with-split): 🪓**Split** big-size repositories into **multiple commits** to prevent network hang-ups.  
 [screentshot-python](https://github.com/kimtth/screentshot-python): 📌 **Pure python** screen shot demo  
