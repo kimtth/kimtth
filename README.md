@@ -98,7 +98,6 @@ A+ 2025/07/22
 [dotnet-aspire-worker-queue-cache](https://github.com/kimtth/dotnet-aspire-worker-queue-cache): 🧭 Azure Functions with **.NET Aspire** 🟪 — **Worker-Queue-Cache** Architecture  
 [jerry-web-render-was](https://github.com/kimtth/jerry-web-render-was): 🐹🌊 How **web works** inside client and server side. focusing on **browser** and web server.  
 [mini-sqlite-engine-py-go-rust](https://github.com/kimtth/mini-sqlite-engine-py-go-rust): 🦀 Learn **Rust** & **Golang** with a **Mini-SQLite** Database Engine (for Python users)  
-[neet-code-top-150-python](https://github.com/kimtth/neet-code-top-150-python): Convert freeCodeCamp Java Code to python using an **LLM** 🤖 | **NeetCode 150** 🧩  
 [small-dsl-eclipse-debug](https://github.com/kimtth/small-dsl-eclipse-debug): 👀 [archived] **Domain-Specific Language**, Integration with the **Eclipse Debug UI**, and Debugger.  
 [spring-boot-mybatis-restful](https://github.com/kimtth/spring-boot-mybatis-restful): 🐛 sample **restful service** by **spring boot** & mybatis & maven  
 [springboot-angular-mysql-mybatis](https://github.com/kimtth/springboot-angular-mysql-mybatis): 🍃**spring boot** + **angular** + mysql + mybatis  
@@ -108,14 +107,16 @@ A+ 2025/07/22
 #### Learning
 
 [ai-by-hand-deepseek-solution](https://github.com/kimtth/ai-by-hand-deepseek-solution): 🐬 **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
+[algorithm-interview-prep-with-visual ](https://github.com/kimtth/algorithm-interview-prep-with-visual): 👨‍💻 Learn common interview algorithms with  **step-by-step visuals** 🖼️ and animations 🎞️  
 [anki-deck-es-fr-de-it-cn](https://github.com/kimtth/anki-deck-es-fr-de-it-cn): **Anki decks**: 🇪🇸 ES / 🇫🇷 FR / 🇩🇪 DE / 🇮🇹 IT **A1→B2** / 🇨🇳 HSK 1→9  
 [bilingual-kr-jp-dict-audio](https://github.com/kimtth/bilingual-kr-jp-dict-audio): 💯**Bilingual** Learning Support by **TTS** / NLP / Translation  
 [ms-build-learn-notes](https://github.com/kimtth/ms-build-learn-notes): 🪟 A concise summary of **Microsoft's products** includes Azure, .NET, M365, Power Platform, Security, DevOps, Viva, and GitHub. The curricula are based on the Build 2023 challenge.  
+[neet-code-top-150-python-visual](https://github.com/kimtth/neet-code-top-150-python-visual): Convert freeCodeCamp Java Code to python with step-by-step visuals 🖼️ | **NeetCode 150+** 🧩  
 
 #### PaaS & Platform
 
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial): 🌿 **Microsoft Fabric** E2E Tutorial: 🌊Lakehouse | 💙Data Science | ⚡Real-Time Intelligence | 🪣Data warehouse  
-[ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿 **Microsoft Fabric** Hands-on  
+[ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿 **Microsoft Fabric / Power BI** Hands-on  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** 📊 **Cross Join** Report Example 🔗 — Combine Tables with No Key 🔄  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): 🤖 **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ⚙️ using schema metadata 📋 from **Purview** 🔍  
@@ -132,8 +133,7 @@ A+ 2025/07/22
 
 #### Reference & Science
 
-> _Note: [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot) list follows the official [Awesome](https://github.com/sindresorhus/awesome) repo rules._
-
+<!-- > _Note: [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot) list follows the official [Awesome](https://github.com/sindresorhus/awesome) repo rules._ -->
 [aosa_pdf](https://github.com/kimtth/aosa_pdf): 🚀 The **Architecture** of **Open Source Applications** Volume 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
 [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot): 🔷A **curated list** of awesome **Azure OpenAI**🌀and Copilot✈️  
 [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm): A curated list of 🌌 **Azure OpenAI**, 🦙 **Large Language Models** (RAG, Agent), and references.  
