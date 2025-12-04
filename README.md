@@ -63,7 +63,7 @@ A+ 2025/07/22
 [einsum-n-dimension](https://github.com/kimtth/einsum-n-dimension): Examples of an **einsum** for **N-dimensional** tensor operations  
 [huggingface-wav2vec](https://github.com/kimtth/huggingface-wav2vec): ‍ ( ͡ ‿●‿ ͡) **wav2vec**  
 [numpy-multi-dims-visualizer](https://github.com/kimtth/numpy-multi-dims-visualizer): An interactive **D3.js-powered** web app to visualize, and understand **multi-dimensional** NumPy arrays.  
-[pyspark-tika-text-extraction](https://github.com/kimtth/pyspark-tika-text-extraction): **Data Lake**, **Performance tuning** for text extraction from a huge amount of files.  
+[pyspark-tika-text-extraction](https://github.com/kimtth/pyspark-tika-text-extraction): **Data Lake**,⏳**Performance tuning** for text extraction from a huge amount of files.  
 [pytorch-vis-llama-trial](https://github.com/kimtth/pytorch-vis-llama-trial): Hello **PyTorch**! **Llama**  
 [twitter-recommender-mimic-mini-recsys](https://github.com/kimtth/twitter-recommender-mimic-mini-recsys): Mini-Recsys: A **Twitter Recommender Mimic** ️  
 
@@ -94,6 +94,7 @@ A+ 2025/07/22
 [chronium-mojo-ipc-cdp-protocol](https://github.com/kimtth/chronium-mojo-ipc-cdp-protocol): **Chromium-style** Mojo IPC, Chrome **DevTools Protocol** (CDP) for interprocess communication  
 [console-tetris](https://github.com/kimtth/console-tetris): 🎮Most simplest **console based Tetris** source code by **C++**  
 [csharp-blazor-net-freecodecamp](https://github.com/kimtth/csharp-blazor-net-freecodecamp): ‍ csharp **webassembly blazor** - C# backend with **Interactive UIs** using C# instead of JavaScript.  
+[csharp-long-running-api](https://github.com/kimtth/csharp-long-running-api) - C# Long-Running API⏳(**Async Request-Reply Pattern**)  
 [dotnet8-bulk-insert-perf](https://github.com/kimtth/dotnet8-bulk-insert-perf): SQL Server **Bulk Insert** Performance Testing | **.NET 8** ️ | EF Core & Web API  
 [dotnet-aspire-worker-queue-cache](https://github.com/kimtth/dotnet-aspire-worker-queue-cache): Azure Functions with **.NET Aspire** — **Worker-Queue-Cache** Architecture  
 [jerry-web-render-was](https://github.com/kimtth/jerry-web-render-was): 🐹How **web works** inside client and server side. focusing on **browser** and web server.  
@@ -117,6 +118,7 @@ A+ 2025/07/22
 
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
+[ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): 🌿 Microsoft Fabric **Medallion architecture** 📈 Stock Prediction Pipeline  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ️ using schema metadata from **Purview**  
