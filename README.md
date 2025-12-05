@@ -85,6 +85,7 @@ A+ 2025/07/22
 [finance-quant-sandbox](https://github.com/kimtth/finance-quant-sandbox): Flying Money with code.  
 [manga2english-yolo-aoai](https://github.com/kimtth/manga2english-yolo-aoai): **Manga translation** from Japanese to English , with **YOLO** and GPT.  
 [mini-copilot](https://github.com/kimtth/mini-copilot): 🤏A **Domain-Specific Language** (DSL) Approach. Generating **DSL scripts** using LLM and user queries to execute office API.  
+[ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): 🌿 Microsoft Fabric **Medallion architecture** 📈 Stock Prediction Pipeline  
 [virtual-buddies-neurodiverse](https://github.com/kimtth/virtual-buddies-neurodiverse): A Copilot for **neurodiverse** children, offering language learning and communication support.  
 [visual-genius](https://github.com/kimtth/visual-genius): 🪅**Visual learning** aids for children with **Autism Spectrum Disorder** — Visual card generation, communication through cards, letterboard.  
 
@@ -118,7 +119,6 @@ A+ 2025/07/22
 
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
-[ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): 🌿 Microsoft Fabric **Medallion architecture** 📈 Stock Prediction Pipeline  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ️ using schema metadata from **Purview**  
@@ -147,7 +147,7 @@ A+ 2025/07/22
 #### Utility  
 
 [chat-llamaindex-azure-openai](https://github.com/kimtth/chat-llamaindex-azure-openai): **LlamaIndex** chat customized for **Azure OpenAI**  
-[chatbot-ui](https://github.com/kimtth/chatbot-ui): kimtth customized version. An open source **ChatGPT UI**.  
+[chatbot-ui](https://github.com/kimtth/chatbot-ui): [Mod] An open source **ChatGPT UI**.  
 [chrome-extension-teams-msg-copy](https://github.com/kimtth/chrome-extension-teams-msg-copy): **Browser extension**: Microsoft **Teams message copy** helper.  
 [czur-bookscan-epub-manual](https://github.com/kimtth/czur-bookscan-epub-manual): Memo for converting **CZUR** book scans to **EPUB** format  
 [decompile-python-exe](https://github.com/kimtth/decompile-python-exe): **Decompile** .exe files built from Python back to source code (pyc, pyd)  
