@@ -158,6 +158,7 @@ A+ 2025/07/22
 [google-fitness-synthetic-steps](https://github.com/kimtth/google-fitness-synthetic-steps): Generating synthetic **Google Fit step-count** data for development  
 [mindmap-maker-clean](https://github.com/kimtth/mindmap-maker-clean): 🧹A cleaned version of **mindmap**-maker  
 [podcast-download-simple](https://github.com/kimtth/podcast-download-simple): A simple, **standalone HTML** file for downloading **podcast** episodes.  
+[podcast-realtime-transcription](https://github.com/kimtth/podcast-realtime-transcription): **Podcast** 🎧 + **live transcription** + tap-to-jump navigation  
 [powershell-git-commit-with-split](https://github.com/kimtth/powershell-git-commit-with-split): **Split** big-size repositories into **multiple commits** to prevent network hang-ups.  
 [screentshot-python](https://github.com/kimtth/screentshot-python): **Pure python screen shot** demo  
 [split-image](https://github.com/kimtth/split-image): A Python package that lets you quickly **split** an image into **rows and columns** (tiles).  
