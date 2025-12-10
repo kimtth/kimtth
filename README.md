@@ -44,6 +44,7 @@ A+ 2025/07/22
 [azure-devops-python-api](https://github.com/kimtth/azure-devops-python-api): **Azure DevOps** Python API  
 [azure-distributed-trace-azure-monitor](https://github.com/kimtth/azure-distributed-trace-azure-monitor): **Azure Monitor** integration with **OpenTelemetry** via "@distributed_trace" annotation  
 [azure-functions-sse-chainlit](https://github.com/kimtth/azure-functions-sse-chainlit): **Server-Sent Events** implementation in **Azure Functions** (backend) and Chainlit (UI).  
+[azure-ml-finetuning-eval-skills](https://github.com/kimtth/azure-ml-finetuning-eval-skills): Automate Azure ML **finetuning** with the LLM **skill**.  
 [azure-ml-lora-finetune-slm](https://github.com/kimtth/azure-ml-lora-finetune-slm): 🖼️**Fine-tune** Phi-4-mini-instruct model with **LoRA** on Azure Machine Learning Studio  
 [azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): A one-stop hub, like a **sample library** **Azure OpenAI** 100+ Sample Code Organized by topic.  
 [azure-prompt-flow-qa-rag](https://github.com/kimtth/azure-prompt-flow-qa-rag): Azure ML **Prompt flow** Integration with Azure AI Search (**Vector Search**)  
