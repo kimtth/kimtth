@@ -118,6 +118,7 @@ A+ 2025/07/22
 
 #### PaaS & Platform  
 
+[ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): 🌿Agentic **Banking** App with SQL in **Fabric** (OLTP/OLTAP/OLAP/Agent/Power BI)  
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
