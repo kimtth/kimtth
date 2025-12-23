@@ -27,6 +27,7 @@ A+ 2025/07/22
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
+[agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): mini Google **Pregel (graph engine)** + Switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
 [azure-func-sk-agent-cosmos-db](https://github.com/kimtth/azure-func-sk-agent-cosmos-db): Agent with **Azure Function** and **Cosmos DB** (Managed Identity) Conversation History  
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
