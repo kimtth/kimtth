@@ -25,6 +25,7 @@ A+ 2025/07/22
 [agent-auto-eval-azure-aoai-sk](https://github.com/kimtth/agent-auto-eval-azure-aoai-sk): **Agent testing** automation by simulating users and agents with **judge** (langwatch-scenario)  
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
+[agent-monitoring-with-agent365](https://github.com/kimtth/agent-monitoring-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for monitoring and M365 MCP  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): mini Google **Pregel (graph engine)** + Switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
@@ -124,6 +125,7 @@ A+ 2025/07/22
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
+[ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ️ using schema metadata from **Purview**  
 
 #### RAG & Search  
