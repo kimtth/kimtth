@@ -30,6 +30,7 @@ A+ 2025/07/22
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): mini Google **Pregel (graph engine)** + Switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
+[ai-recursive-lang-model-inference](https://github.com/kimtth/ai-recursive-lang-model-inference): **Recursive Language Models** (RLMs) unofficial (trial).  
 [azure-func-sk-agent-cosmos-db](https://github.com/kimtth/azure-func-sk-agent-cosmos-db): Agent with **Azure Function** and **Cosmos DB** (Managed Identity) Conversation History  
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
 [mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
