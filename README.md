@@ -121,6 +121,7 @@ A+ 2025/07/22
 
 #### PaaS & Platform  
 
+[graph-api-batch-calls](https://github.com/kimtth/graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)🛠️   
 [ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): 🌿Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
