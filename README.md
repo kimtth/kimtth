@@ -35,6 +35,7 @@ A+ 2025/07/22
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
 [mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
 [mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls  
+[orca-cli](https://github.com/kimtth/orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 [WindowsAgentArena_mod](https://github.com/kimtth/WindowsAgentArena_mod): [Mod] **Windows Agent Arena** (WAA) for **testing** and **benchmarking** of multi-modal AI agents.  
 
@@ -80,6 +81,7 @@ A+ 2025/07/22
 [hinemos-ntt-qualisystems](https://github.com/kimtth/hinemos-ntt-qualisystems): ️ **Hinemos** Cloud Shell Draft  
 [iot-kafka-automq-microk8s](https://github.com/kimtth/iot-kafka-automq-microk8s): **IoT** data pipeline built with Apache **Kafka** & AutoMQ and MicroK8s  
 [openstack-dev-cloudshell](https://github.com/kimtth/openstack-dev-cloudshell): **OpenStack** integration with Quali **CloudShell**  
+[terraform-github-actions](https://github.com/kimtth/terraform-github-actions): [Note] **GitHub Actions** to deploy infrastructure to Azure using **Terraform**  
 [tora-auto-ui-opencv](https://github.com/kimtth/tora-auto-ui-opencv): **UI Automation** By **OpenCV** (Image Template Matching).  
 
 #### Domain & Industry  
@@ -126,6 +128,7 @@ A+ 2025/07/22
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
 [powerapp-ingest](https://github.com/kimtth/powerapp-ingest): A git-ingest–inspired tool that generates **Power Apps** context (UI hierarchies and Power Fx)  
+[pbi-ingest](https://github.com/kimtth/pbi-ingest): A git-ingest–inspired tool that generates **Power BI** context (Table relationships and DAX) for LLMs  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
