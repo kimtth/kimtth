@@ -35,6 +35,7 @@ A+ 2025/07/22
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
 [mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
 [mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls  
+[orca-cli](https://github.com/kimtth/orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 [WindowsAgentArena_mod](https://github.com/kimtth/WindowsAgentArena_mod): [Mod] **Windows Agent Arena** (WAA) for **testing** and **benchmarking** of multi-modal AI agents.  
 
