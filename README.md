@@ -132,6 +132,7 @@ A+ 2025/07/22
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-platform-playbook](https://github.com/kimtth/power-platform-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
+[ppf-migrate-gui-to-power-apps-code-apps](https://github.com/kimtth/ppf-migrate-gui-to-power-apps-code-apps): Migrate the sample GUI application to **Power Apps Code Apps**  
 [purview-driven-azure-ai-search-index](https://github.com/kimtth/purview-driven-azure-ai-search-index): **Type hints** for Azure AI Search indexes ️ using schema metadata from **Purview**  
 
 #### RAG & Search  
