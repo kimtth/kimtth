@@ -20,6 +20,8 @@ A+ 2025/07/22
 #### Agent  
 
 [a2a-protocol-semantic-kernel](https://github.com/kimtth/a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) protocol implementation using **Semantic Kernel** (unofficial)  
+[agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
+[agent-agentic-context-engineering](https://github.com/kimtth/agent-agentic-context-engineering): A simplified implementation of **Agentic Context Engineering**  
 [agent-ai-foundry-func-wrapper](https://github.com/kimtth/agent-ai-foundry-func-wrapper):🔧**Azure Function** wrapper integrates with **AI Foundry** Agent (w/ Cosmos DB)  
 [agent-ai-foundry-tool-use](https://github.com/kimtth/agent-ai-foundry-tool-use): **Tool use** patterns with an agent built using **Azure AI Foundry**.  
 [agent-auto-eval-azure-aoai-sk](https://github.com/kimtth/agent-auto-eval-azure-aoai-sk): **Agent testing** automation by simulating users and agents with **judge** (langwatch-scenario)  
