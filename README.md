@@ -20,6 +20,7 @@ A+ 2025/07/22
 #### Agent  
 
 [a2a-protocol-semantic-kernel](https://github.com/kimtth/a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) protocol implementation using **Semantic Kernel** (unofficial)  
+[agent-a2a-entra-id-auth](https://github.com/kimtth/agent-a2a-entra-id-auth): **Agent-to-Agent (A2A) OAuth** Identity Passthrough using Azure AI Foundry  
 [agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 [agent-agentic-context-engineering](https://github.com/kimtth/agent-agentic-context-engineering): A simplified implementation of **Agentic Context Engineering**  
 [agent-ai-foundry-func-wrapper](https://github.com/kimtth/agent-ai-foundry-func-wrapper):🔧**Azure Function** wrapper integrates with **AI Foundry** Agent (w/ Cosmos DB)  
@@ -28,6 +29,7 @@ A+ 2025/07/22
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
 [agent-monitoring-with-agent365](https://github.com/kimtth/agent-monitoring-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for monitoring and M365 MCP  
+[agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Azure Application Insights** 🔐  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): mini Google **Pregel (graph engine)** + Switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
