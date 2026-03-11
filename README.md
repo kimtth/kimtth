@@ -19,9 +19,6 @@ A+ 2025/07/22
 
 #### Agent  
 
-[a2a-protocol-semantic-kernel](https://github.com/kimtth/a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) protocol implementation using **Semantic Kernel** (unofficial)  
-[agent-a2a-entra-id-auth](https://github.com/kimtth/agent-a2a-entra-id-auth): **Agent-to-Agent (A2A) OAuth** Identity Passthrough using Azure AI Foundry  
-[agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 [agent-agentic-context-engineering](https://github.com/kimtth/agent-agentic-context-engineering): A simplified implementation of **Agentic Context Engineering**  
 [agent-ai-foundry-func-wrapper](https://github.com/kimtth/agent-ai-foundry-func-wrapper):🔧**Azure Function** wrapper integrates with **AI Foundry** Agent (w/ Cosmos DB)  
 [agent-ai-foundry-tool-use](https://github.com/kimtth/agent-ai-foundry-tool-use): **Tool use** patterns with an agent built using **Azure AI Foundry**.  
@@ -29,19 +26,24 @@ A+ 2025/07/22
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
 [agent-monitoring-with-agent365](https://github.com/kimtth/agent-monitoring-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for monitoring and M365 MCP  
-[agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Azure Application Insights** 🔐  
+[agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Open Telemetry** 🔐  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
+[agent-orca-cli](https://github.com/kimtth/agent-orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): mini Google **Pregel (graph engine)** + Switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
 [ai-recursive-lang-model-inference](https://github.com/kimtth/ai-recursive-lang-model-inference): **Recursive Language Models** (RLMs) unofficial (trial).  
 [azure-func-sk-agent-cosmos-db](https://github.com/kimtth/azure-func-sk-agent-cosmos-db): Agent with **Azure Function** and **Cosmos DB** (Managed Identity) Conversation History  
-[mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.  
-[mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
-[mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls  
-[orca-cli](https://github.com/kimtth/orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 [WindowsAgentArena_mod](https://github.com/kimtth/WindowsAgentArena_mod): [Mod] **Windows Agent Arena** (WAA) for **testing** and **benchmarking** of multi-modal AI agents.  
+
+#### Agent Protocols
+
+[agent-a2a-protocol-semantic-kernel](https://github.com/kimtth/agent-a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) protocol implementation using **Semantic Kernel** (unofficial)  
+[agent-a2a-entra-id-auth](https://github.com/kimtth/agent-a2a-entra-id-auth): **Agent-to-Agent (A2A) OAuth** Identity Passthrough using Azure AI Foundry  
+[mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.   
+[mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
+[mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls    
 
 #### Azure  
 
@@ -54,8 +56,6 @@ A+ 2025/07/22
 [azure-functions-sse-chainlit](https://github.com/kimtth/azure-functions-sse-chainlit): **Server-Sent Events** implementation in **Azure Functions** (backend) and Chainlit (UI).  
 [azure-ml-finetuning-eval-skills](https://github.com/kimtth/azure-ml-finetuning-eval-skills): Automate Azure ML **finetuning** with the LLM **skill**.  
 [azure-ml-lora-finetune-slm](https://github.com/kimtth/azure-ml-lora-finetune-slm): 🖼️**Fine-tune** Phi-4-mini-instruct model with **LoRA** on Azure Machine Learning Studio  
-[azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): A one-stop hub, like a **sample library** **Azure OpenAI** 100+ Sample Code Organized by topic.  
-[azure-prompt-flow-qa-rag](https://github.com/kimtth/azure-prompt-flow-qa-rag): Azure ML **Prompt flow** Integration with Azure AI Search (**Vector Search**)  
 [azure-speech-text-batch-speaker](https://github.com/kimtth/azure-speech-text-batch-speaker): **Azure Speech Services** Batch Transcription API Python with **Speaker recognition**  
 [bicep-azure-data-platform-IaC](https://github.com/kimtth/bicep-azure-data-platform-laC): ️ Azure Data platform **Infrastructure as Code** (Datafactory, Databricks, Synapse Analytics)  
 [cognitive-services-REST-api-samples](https://github.com/kimtth/cognitive-services-REST-api-samples): **Cognitive services** REST API samples: C#, Java, Node.js, and Python.  
@@ -63,6 +63,11 @@ A+ 2025/07/22
 [service-fabric-dotnet-quickstart_note](https://github.com/kimtth/service-fabric-dotnet-quickstart_note): ️ [Note] for **Service Fabric** quickstart .net application sample  
 [teams-speech-bot-plugin-azure](https://github.com/kimtth/teams-speech-bot-plugin-azure): **Microsoft Teams** Speech Bot Demo  
 [voice-translator-bot](https://github.com/kimtth/voice-translator-bot): Bot by **MERN** Stack using Azure **Cognitive Service** (Speech to Text, Translate)  
+
+#### Cowork
+
+[agent-cowork-pptx-creator](https://github.com/kimtth/agent-cowork-pptx-creator): AI agent that helps users create **PowerPoint** slides (Electron) 🤝  
+[agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 
 #### Datascience  
 
@@ -143,6 +148,7 @@ A+ 2025/07/22
 
 [azure-ai-search-skill-explorer](https://github.com/kimtth/azure-ai-search-skill-explorer): **Azure AI Search Skill** I/O  
 [azure-document-intelligence-vs-markitdown-vs-tika](https://github.com/kimtth/azure-document-intelligence-vs-markitdown-vs-tika): **Azure Document Intelligence** (layout model) vs Markitdown ️vs Apache Tika  
+[azure-prompt-flow-qa-rag](https://github.com/kimtth/azure-prompt-flow-qa-rag): Azure ML **Prompt flow** Integration with Azure AI Search (**Vector Search**)  
 [rag-ai-search-index-blob-trigger](https://github.com/kimtth/rag-ai-search-index-blob-trigger): Trigger Azure AI Search **Index Creation** using an Azure Function **Blob Trigger**  
 [rag-graph-rag-azure-openai](https://github.com/kimtth/rag-graph-rag-azure-openai): 🕸️**GraphRAG v2** API (From Local to Global: arxiv.org/abs/2404.16130) **Playground**  
 [rag-minimum-azure-ai-search](https://github.com/kimtth/rag-minimum-azure-ai-search): **Azure AI Search Index creation** for **FAQ retrieval**. (csv Indexer)  
@@ -155,6 +161,7 @@ A+ 2025/07/22
 [aosa_pdf](https://github.com/kimtth/aosa_pdf): The **Architecture** of **Open Source Applications** Volume 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
 [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot): A **curated list** of awesome **Azure OpenAI**and Copilot️✈️  
 [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm): A curated list of 🌀**Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
+[azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): A one-stop hub, like a **sample library** **Azure OpenAI** 100+ Sample Code Organized by topic.  
 [software-architect-mindmap](https://github.com/kimtth/software-architect-mindmap): 🧠**Mindmap** of **Software engineering**: An Overview of Software Terminologies and Concepts.  
 [science-alpha-fold-note](https://github.com/kimtth/science-alpha-fold-note): Notes about **AlphaFold** inputs, outputs, and **model architecture**  
 [science-companion-mindmap](https://github.com/kimtth/science-companion-mindmap): 🔬🧬References and notes for **science mindmap** — **College-level** science overview  
