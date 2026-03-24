@@ -25,7 +25,7 @@ A+ 2025/07/22
 [agent-auto-eval-azure-aoai-sk](https://github.com/kimtth/agent-auto-eval-azure-aoai-sk): **Agent testing** automation by simulating users and agents with **judge** (langwatch-scenario)  
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
-[agent-monitoring-with-agent365](https://github.com/kimtth/agent-monitoring-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for monitoring and M365 MCP  
+[agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP  
 [agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Open Telemetry** 🔐  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orca-cli](https://github.com/kimtth/agent-orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
@@ -66,7 +66,7 @@ A+ 2025/07/22
 
 #### Cowork
 
-[agent-cowork-pptx-creator](https://github.com/kimtth/agent-cowork-pptx-creator): AI agent that helps users create **PowerPoint** slides (Electron) 🤝  
+[agent-cowork-pptx-creator](https://github.com/kimtth/agent-cowork-pptx-creator): An **PPTX Agent** using a layout-first (Kiwi constraint solver), render-last pipeline.🤝(Electron)   
 [agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 
 #### Datascience  
@@ -134,6 +134,7 @@ A+ 2025/07/22
 
 [graph-api-batch-calls](https://github.com/kimtth/graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)🛠️   
 [ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): 🌿Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
+[ms-fabric-auto-maintenance](https://github.com/kimtth/ms-fabric-auto-maintenance): 🌿End-to-end **automotive predictive maintenance** on Microsoft Fabric  
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
 [powerapp-ingest](https://github.com/kimtth/powerapp-ingest): A git-ingest–inspired tool that generates **Power Apps** context (UI hierarchies and Power Fx)  
