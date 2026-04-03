@@ -43,6 +43,7 @@ A+ 2025/07/22
 [agent-a2a-entra-id-auth](https://github.com/kimtth/agent-a2a-entra-id-auth): **Agent-to-Agent (A2A) OAuth** Identity Passthrough using Azure AI Foundry  
 [mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐A minimal **MCP** server/client with Azure OpenAI and **web browser** control via Playwright.   
 [mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
+[mcp-client-a365-mcp-servers](https://github.com/kimtth/mcp-client-a365-mcp-servers): MCP Client for 🔵 **Agent 365 MCP** Servers (Mail, Calendar, Word, Teams, SharePoint, etc.)   
 [mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): An experimental and educational script for demonstrating **remote MCP** (Model Context Protocol) calls    
 
 #### Azure  
@@ -66,7 +67,7 @@ A+ 2025/07/22
 
 #### Cowork
 
-[agent-cowork-pptx-creator](https://github.com/kimtth/agent-cowork-pptx-creator): An **PPTX Agent** using a layout-first (Kiwi constraint solver), render-last pipeline.🤝(Electron)   
+[agent-pptx-mini-notebooklm](https://github.com/kimtth/agent-pptx-mini-notebooklm): An **PPTX Agent** using a layout-first (Kiwi constraint solver), render-last pipeline.🤝(Electron)   
 [agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 
 #### Datascience  
