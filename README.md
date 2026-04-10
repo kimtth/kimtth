@@ -1,7 +1,7 @@
 ﻿### Hello! 👋  
 
 - :basecampy: I enjoy exploring current IT trends and technologies.  
-- This repository is a space for my micro-learning and reference.  
+- My repositories are a space for micro-learning and reference.
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) [:whale:](https://gitranks.com/profile/kimtth/ranks)| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)  
 
 <!--  
