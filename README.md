@@ -29,8 +29,7 @@ A+ 2025/07/22
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orca-cli](https://github.com/kimtth/agent-orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
-[agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP  
-[agent-pptx-mini-notebooklm](https://github.com/kimtth/agent-pptx-mini-notebooklm): An **PPTX Agent** using a layout-first (Kiwi constraint solver), render-last pipeline.🤝(Electron)   
+[agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP     
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
 [sre-agent](https://github.com/kimtth/sre-agent): **Azure SRE Agent** issue and feedback hub for reliability operations.  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
@@ -94,7 +93,10 @@ A+ 2025/07/22
 [java-spring-boot-angular-mysql-mybatis](https://github.com/kimtth/java-spring-boot-angular-mysql-mybatis): **spring boot** + **angular** + mysql + mybatis  
 [java-spring-boot-mybatis-restful](https://github.com/kimtth/java-spring-boot-mybatis-restful): sample **restful service** by **spring boot** & mybatis & maven  
 [mini-chronium-mojo-ipc-cdp-protocol](https://github.com/kimtth/mini-chronium-mojo-ipc-cdp-protocol): **Chromium-style** Mojo IPC, Chrome **DevTools Protocol** (CDP) for interprocess communication  
+[mini-copilot](https://github.com/kimtth/mini-copilot): 🤏A **Domain-Specific Language** (DSL) Approach. Generating **DSL scripts** using LLM and user queries to execute office API.  
 [mini-jerry-web-render-was](https://github.com/kimtth/mini-jerry-web-render-was): 🐹How **web works** inside client and server side. focusing on **browser** and web server.  
+[mini-notebooklm-agent-pptx](https://github.com/kimtth/mini-notebooklm-agent-pptx): A **mini NotebookLM for PPTX**. contract-basd slide rendering with long-context understanding.   
+[mini-polar-bear-office](https://github.com/kimtth/mini-polar-bear-office): A **mini Office 365** - docx, pptx, xlsx - wasm + rust + oss  
 [mini-small-dsl-eclipse-debug](https://github.com/kimtth/mini-small-dsl-eclipse-debug): [archived] 👀**Domain-Specific Language**, Integration with the **Eclipse Debug UI**, and Debugger.  
 [mini-sqlite-engine-py-go-rust](https://github.com/kimtth/mini-sqlite-engine-py-go-rust): Learn **Rust** & **Golang** with a **Mini-SQLite** Database Engine (for Python users)  
 [mini-xmpp-socketio-rabbitmq](https://github.com/kimtth/mini-xmpp-socketio-rabbitmq): **XMPP** with xmpp.js, Websocket with Socket.io, AMQP with RabbitMQ in Docker.  
@@ -148,7 +150,6 @@ A+ 2025/07/22
 [agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 📈**Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
 [domain-finance-quant-sandbox](https://github.com/kimtth/domain-finance-quant-sandbox): Flying Money with code.  
 [domain-virtual-buddies-neurodiverse](https://github.com/kimtth/domain-virtual-buddies-neurodiverse): A Copilot for **neurodiverse** children, offering language learning and communication support.  
-[mini-copilot](https://github.com/kimtth/mini-copilot): 🤏A **Domain-Specific Language** (DSL) Approach. Generating **DSL scripts** using LLM and user queries to execute office API.  
 [visual-genius](https://github.com/kimtth/visual-genius): 🪅**Visual learning** aids for children with **Autism Spectrum Disorder** — Visual card generation, communication through cards, letterboard.  
 
 #### Reference, Learning & Knowledge Maps  
