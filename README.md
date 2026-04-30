@@ -31,6 +31,7 @@ A+ 2025/07/22
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP     
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
+[skill-clean-codebase](https://github.com/kimtth/skill-clean-codebase): **Clean up** dead code, obsolete paths, and contradictions in the codebase.  
 [sre-agent](https://github.com/kimtth/sre-agent): **Azure SRE Agent** issue and feedback hub for reliability operations.  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 
