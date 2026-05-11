@@ -29,7 +29,8 @@ A+ 2025/07/22
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️A **Multi Agent Simulator** - Visualize Agent interactions  
 [agent-orca-cli](https://github.com/kimtth/agent-orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): AI agent **orchestration** patterns with **Semantic Kernel** and AutoGen.  
-[agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP     
+[agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): Integrating Agent Framework and **Agent 365** to extend Agent for M365 MCP   
+[agent-reward-grpo](https://github.com/kimtth/agent-reward-grpo): Reward-driven agent tuning with **GRPO** to build adaptive, **learnable agents**      
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
 [skill-clean-codebase](https://github.com/kimtth/skill-clean-codebase): **Clean up** dead code, obsolete paths, and contradictions in the codebase.  
 [sre-agent](https://github.com/kimtth/sre-agent): **Azure SRE Agent** issue and feedback hub for reliability operations.  
@@ -69,6 +70,7 @@ A+ 2025/07/22
 
 #### Data Science 
 
+[ai-amazon-recommender-mimic-mini-recsys](https://github.com/kimtth/ai-amazon-recommender-mimic-mini-recsys): Mini recommender system mimicking **Amazon** COSMO pipeline   
 [ai-manga2english-yolo-aoai](https://github.com/kimtth/ai-manga2english-yolo-aoai): **Manga translation** from Japanese to English , with **YOLO** and GPT.  
 [ai-pytorch-vis-llama-trial](https://github.com/kimtth/ai-pytorch-vis-llama-trial): Hello **PyTorch**! **Llama**  
 [ai-recursive-lang-model-inference](https://github.com/kimtth/ai-recursive-lang-model-inference): **Recursive Language Models** (RLMs) unofficial (trial).  
