@@ -72,6 +72,7 @@ A+ 2025/07/22
 
 [ai-amazon-recommender-mimic-mini-recsys](https://github.com/kimtth/ai-amazon-recommender-mimic-mini-recsys): Mini recommender system mimicking **Amazon** COSMO pipeline   
 [ai-manga2english-yolo-aoai](https://github.com/kimtth/ai-manga2english-yolo-aoai): **Manga translation** from Japanese to English , with **YOLO** and GPT.  
+[ai-pytorch-lighthouse-attention](https://github.com/kimtth/ai-pytorch-lighthouse-attention): A small, hackable implementation of **Lighthouse Attention** (arxiv.org/abs/2605.06554)   
 [ai-pytorch-vis-llama-trial](https://github.com/kimtth/ai-pytorch-vis-llama-trial): Hello **PyTorch**! **Llama**  
 [ai-recursive-lang-model-inference](https://github.com/kimtth/ai-recursive-lang-model-inference): **Recursive Language Models** (RLMs) unofficial (trial).  
 [ai-twitter-recommender-mimic-mini-recsys](https://github.com/kimtth/ai-twitter-recommender-mimic-mini-recsys): Mini-Recsys: A **Twitter Recommender Mimic** ️  
@@ -123,6 +124,7 @@ A+ 2025/07/22
 
 [ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): 🌿Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
 [ms-fabric-auto-maintenance](https://github.com/kimtth/ms-fabric-auto-maintenance): 🌿End-to-end **automotive predictive maintenance** on Microsoft Fabric  
+[ms-fabric-data-agent-user-auth-delegation](https://github.com/kimtth/ms-fabric-data-agent-user-auth-delegation): 🌿Fabric Data Agent with **Delegated Access (RLS, CLS)**  
 [ms-fabric-dev-starter](https://github.com/kimtth/ms-fabric-dev-starter): 🌿 Microsoft Fabric - Scaffolding template for Microsoft Fabric development with AI coding agents    
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
