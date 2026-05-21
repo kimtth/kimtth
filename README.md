@@ -20,19 +20,20 @@ A+ 2025/07/22
 #### Agent  
 
 [agent-agentic-context-engineering](https://github.com/kimtth/agent-agentic-context-engineering): Simplified implementation of **Agentic Context Engineering** (arxiv.org/abs/2510.04618)  
-[agent-ai-foundry-func-wrapper](https://github.com/kimtth/agent-ai-foundry-func-wrapper):🔧**Azure Function** wrapper integrates with **AI Foundry** Agent (w/ Cosmos DB)  
+[agent-ai-foundry-func-wrapper](https://github.com/kimtth/agent-ai-foundry-func-wrapper):**Azure Function** wrapper integrates with **AI Foundry** Agent (w/ Cosmos DB)  
 [agent-ai-foundry-tool-use](https://github.com/kimtth/agent-ai-foundry-tool-use): **Tool use** patterns with an agent built using **Azure AI Foundry**.  
 [agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
 [agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
-[agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): Mini Google **Pregel (graph engine)** + switching ⚖️ between **deterministic workflows** and **indeterministic agents** 🧿  
+[agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): Mini Google **Pregel (graph engine)** + switching between **deterministic workflows** and **indeterministic agents**  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️**Multi Agent Simulator** — visualize agent interactions  
-[agent-orca-cli](https://github.com/kimtth/agent-orca-cli): 🐋 Orca CLI – Agent **Skill SubAgent Plugin Manager**  
+[agent-orca-cli](https://github.com/kimtth/agent-orca-cli): Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): **AI agent orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): **Agent Framework** + **Agent 365** integration — extends agent for M365 MCP   
 [agent-reward-grpo](https://github.com/kimtth/agent-reward-grpo): Reward-driven agent tuning with **GRPO** to build adaptive, **learnable agents**      
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
-[skill-clean-codebase](https://github.com/kimtth/skill-clean-codebase): **Clean up** dead code, obsolete paths, and contradictions in the codebase.  
+[agent-pptify-kit](https://github.com/kimtth/pptify-kit): 🎨Agent-driven toolkit for generating **editable PowerPoint slides**  
+[agent-skill-100-lines-or-less](https://github.com/kimtth/skill-100-lines-or-less): 🤏Minimal but effective AI **agent skill** definitions in **100 lines or less**.  
 [sre-agent](https://github.com/kimtth/sre-agent): **Azure SRE Agent** issue and feedback hub for reliability operations.  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 
@@ -41,10 +42,10 @@ A+ 2025/07/22
 [agent-a2a-entra-id-auth](https://github.com/kimtth/agent-a2a-entra-id-auth): **Agent-to-Agent (A2A) OAuth** Identity Passthrough using Azure AI Foundry  
 [agent-a2a-protocol-semantic-kernel](https://github.com/kimtth/agent-a2a-protocol-semantic-kernel): **A2A** (Agent-to-Agent) protocol implementation using **Semantic Kernel** (unofficial)  
 [agent-auto-eval-azure-aoai-sk](https://github.com/kimtth/agent-auto-eval-azure-aoai-sk): **Agent testing** automation by simulating users and agents with **judge** (langwatch-scenario)  
-[agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Open Telemetry** 🔐  
-[mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):🌐**Minimal MCP** server/client with Azure OpenAI and **web browser** control via Playwright.   
+[agent-ms-foundry-guardrail](https://github.com/kimtth/agent-ms-foundry-guardrail): Agent **Guardrail** PII Leakage Monitored by **Open Telemetry**   
+[mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing):**Minimal MCP** server/client with Azure OpenAI and **web browser** control via Playwright.   
 [mcp-azure-devops-client-demo](https://github.com/kimtth/mcp-azure-devops-client-demo): Azure DevOps ️ via an **Azure DevOps MCP** Server  
-[mcp-client-a365-mcp-servers](https://github.com/kimtth/mcp-client-a365-mcp-servers): MCP Client for 🔵 **Agent 365 MCP** Servers (Mail, Calendar, Word, Teams, SharePoint, etc.)   
+[mcp-client-a365-mcp-servers](https://github.com/kimtth/mcp-client-a365-mcp-servers): MCP Client for **Agent 365 MCP** Servers (Mail, Calendar, Word, Teams, SharePoint, etc.)   
 [mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong): **Remote MCP** (Model Context Protocol) calls — experimental demo    
 [WindowsAgentArena_mod](https://github.com/kimtth/WindowsAgentArena_mod): [Mod] **Windows Agent Arena** (WAA) for **testing** and **benchmarking** of multi-modal AI agents.  
 
@@ -61,7 +62,7 @@ A+ 2025/07/22
 [azure-func-sk-agent-cosmos-db](https://github.com/kimtth/azure-func-sk-agent-cosmos-db): Agent with **Azure Function** and **Cosmos DB** (Managed Identity) Conversation History  
 [azure-functions-sse-chainlit](https://github.com/kimtth/azure-functions-sse-chainlit): **Server-Sent Events** implementation in **Azure Functions** (backend) and Chainlit (UI).  
 [azure-ml-finetuning-eval-skills](https://github.com/kimtth/azure-ml-finetuning-eval-skills): **Azure ML finetuning** automation with LLM **skill**.  
-[azure-ml-lora-finetune-slm](https://github.com/kimtth/azure-ml-lora-finetune-slm): 🖼️**Fine-tune** Phi-4-mini-instruct model with **LoRA** on Azure Machine Learning Studio  
+[azure-ml-lora-finetune-slm](https://github.com/kimtth/azure-ml-lora-finetune-slm): **Fine-tune** Phi-4-mini-instruct model with **LoRA** on Azure Machine Learning Studio  
 [azure-speech-text-batch-speaker](https://github.com/kimtth/azure-speech-text-batch-speaker): **Azure Speech Services** Batch Transcription API Python with **Speaker recognition**  
 [azure-teams-speech-bot-plugin](https://github.com/kimtth/azure-teams-speech-bot-plugin): **Microsoft Teams** Speech Bot Demo  
 [cognitive-services-REST-api-samples](https://github.com/kimtth/cognitive-services-REST-api-samples): **Cognitive services** REST API samples: C#, Java, Node.js, and Python.  
@@ -86,26 +87,30 @@ A+ 2025/07/22
 [ds-pyspark-tika-text-extraction](https://github.com/kimtth/ds-pyspark-tika-text-extraction): **Data Lake**,⏳**Performance tuning** for text extraction from a huge amount of files.  
 [ds-t-sne-from-scratch](https://github.com/kimtth/ds-t-sne-from-scratch): **Minimal**, clear **t-SNE** implementation **from scratch** in Python  
 
-#### Frameworks, Languages & Runtime Internals  
+#### Frameworks, Languages
 
 [cplusplus-console-tetris](https://github.com/kimtth/cplusplus-console-tetris): 🎮Most simplest **console based Tetris** source code by **C++**  
 [csharp-blazor-net-freecodecamp](https://github.com/kimtth/csharp-blazor-net-freecodecamp): **C# WebAssembly Blazor** — C# backend with **Interactive UIs** using C# instead of JavaScript.  
-[csharp-long-running-api](https://github.com/kimtth/csharp-long-running-api) - C# Long-Running API⏳(**Async Request-Reply Pattern**)  
+[csharp-long-running-api](https://github.com/kimtth/csharp-long-running-api) - C# Long-Running API(**Async Request-Reply Pattern**)  
 [dotnet-aspire-worker-queue-cache](https://github.com/kimtth/dotnet-aspire-worker-queue-cache): Azure Functions with **.NET Aspire** — **Worker-Queue-Cache** Architecture  
 [dotnet8-bulk-insert-perf](https://github.com/kimtth/dotnet8-bulk-insert-perf): SQL Server **Bulk Insert** Performance Testing | **.NET 8** ️ | EF Core & Web API  
-[graphql-ai-caption-admin](https://github.com/kimtth/graphql-ai-caption-admin): 🕸️**GraphQL**: Admin webpage for dashboard  
+[graphql-ai-caption-admin](https://github.com/kimtth/graphql-ai-caption-admin): **GraphQL**: Admin webpage for dashboard  
 [java-spring-boot-angular-mysql-mybatis](https://github.com/kimtth/java-spring-boot-angular-mysql-mybatis): **Spring Boot** + **Angular** + MySQL + MyBatis  
 [java-spring-boot-mybatis-restful](https://github.com/kimtth/java-spring-boot-mybatis-restful): **RESTful service** by **Spring Boot** & MyBatis & Maven  
-[mini-chronium-mojo-ipc-cdp-protocol](https://github.com/kimtth/mini-chronium-mojo-ipc-cdp-protocol): **Chromium-style** Mojo IPC, Chrome **DevTools Protocol** (CDP) for interprocess communication  
+[vscode-extension-lsp-pfx](https://github.com/kimtth/vscode-extension-lsp-pfx): **Visual Studio Code extension** showcase for **DSL** (PowerFx mimic) using Language Server Protocol.
+
+#### Mini mimic
+
+[mini-chronium-cdp-protocol](https://github.com/kimtth/mini-chronium-cdp-protocol): Chrome **DevTools Protocol** (CDP) for interprocess communication  
+[mini-claude-code](https://github.com/kimtth/mini-claude-code): unverified - **Leaked Claude Code** on 20260331  
 [mini-copilot](https://github.com/kimtth/mini-copilot): 🤏**Domain-Specific Language** (DSL) approach — generating **DSL scripts** using LLM and user queries to execute office API.  
-[mini-jerry-web-render-was](https://github.com/kimtth/mini-jerry-web-render-was): 🐹**How web works** inside client and server side — focusing on **browser** and web server.  
+[mini-jerry-web-render-was](https://github.com/kimtth/mini-jerry-web-render-was): **How web works** inside client and server side — focusing on **browser** and web server.  
 [mini-notebooklm-agent-pptx](https://github.com/kimtth/mini-notebooklm-agent-pptx): **Mini NotebookLM for PPTX** — contract-based slide rendering with long-context understanding.   
 [mini-polar-bear-office](https://github.com/kimtth/mini-polar-bear-office): **Mini Office 365** — docx, pptx, xlsx — wasm + rust + oss  
-[mini-small-dsl-eclipse-debug](https://github.com/kimtth/mini-small-dsl-eclipse-debug): [archived] 👀**Domain-Specific Language**, Integration with the **Eclipse Debug UI**, and Debugger.  
+[mini-small-dsl-eclipse-debug](https://github.com/kimtth/mini-small-dsl-eclipse-debug): [archived] **Domain-Specific Language**, Integration with the **Eclipse Debug UI**, and Debugger.  
 [mini-sqlite-engine-py-go-rust](https://github.com/kimtth/mini-sqlite-engine-py-go-rust): **Mini-SQLite** database engine — learn **Rust** & **Golang** (for Python users)  
 [mini-xmpp-socketio-rabbitmq](https://github.com/kimtth/mini-xmpp-socketio-rabbitmq): **XMPP** with xmpp.js, Websocket with Socket.io, AMQP with RabbitMQ in Docker.  
-[vscode-extension-lsp-pfx](https://github.com/kimtth/vscode-extension-lsp-pfx): **Visual Studio Code extension** showcase for **DSL** (PowerFx mimic) using Language Server Protocol.    
-
+    
 #### DevOps
 
 [azure-devops-python-api](https://github.com/kimtth/azure-devops-python-api): **Azure DevOps** Python API  
@@ -122,14 +127,14 @@ A+ 2025/07/22
 
 #### Microsoft Platforms  
 
-[ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): 🌿Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
-[ms-fabric-auto-maintenance](https://github.com/kimtth/ms-fabric-auto-maintenance): 🌿End-to-end **automotive predictive maintenance** on Microsoft Fabric  
-[ms-fabric-data-agent-user-auth-delegation](https://github.com/kimtth/ms-fabric-data-agent-user-auth-delegation): 🌿Fabric Data Agent with **Delegated Access (RLS, CLS)**  
+[ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
+[ms-fabric-auto-maintenance](https://github.com/kimtth/ms-fabric-auto-maintenance): End-to-end **automotive predictive maintenance** on Microsoft Fabric  
+[ms-fabric-data-agent-user-auth-delegation](https://github.com/kimtth/ms-fabric-data-agent-user-auth-delegation): Fabric Data Agent with **Delegated Access (RLS, CLS)**  
 [ms-fabric-dev-starter](https://github.com/kimtth/ms-fabric-dev-starter): 🌿 Microsoft Fabric - Scaffolding template for Microsoft Fabric development with AI coding agents    
-[ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):🌿**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
-[ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): 🌿**Microsoft Fabric / Power BI** Hands-on  
-[ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): 🌿 Microsoft Fabric **Medallion architecture** 📈 Stock Prediction Pipeline  
-[ms-graph-api-batch-calls](https://github.com/kimtth/ms-graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)🛠️   
+[ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
+[ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): **Microsoft Fabric / Power BI** Hands-on  
+[ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): Microsoft Fabric **Medallion architecture** Stock Prediction Pipeline  
+[ms-graph-api-batch-calls](https://github.com/kimtth/ms-graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)   
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-bi-ingest](https://github.com/kimtth/power-bi-ingest): **Power BI** context generator (table relationships and DAX) for LLMs  
 [ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
@@ -152,24 +157,24 @@ A+ 2025/07/22
 #### Domain Solutions  
 
 [agent-connected-vehicle-platform](https://github.com/kimtth/agent-connected-vehicle-platform): 🚗Agentic **Connected Vehicle** Platform — Agent **orchestration**, MCP, Avatar TTS  
-[agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 📈**Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
+[agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 💱**Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
 [domain-finance-quant-sandbox](https://github.com/kimtth/domain-finance-quant-sandbox): **Quantitative finance** sandbox  
 [domain-virtual-buddies-neurodiverse](https://github.com/kimtth/domain-virtual-buddies-neurodiverse): **Copilot** for **neurodiverse** children — language learning and communication support.  
 [visual-genius](https://github.com/kimtth/visual-genius): 🪅**Visual learning** aids for children with **Autism Spectrum Disorder** — Visual card generation, communication through cards, letterboard.  
 
 #### Reference, Learning & Knowledge Maps  
 
-[algorithm-interview-prep-with-visual ](https://github.com/kimtth/algorithm-interview-prep-with-visual):🎞️**Interview algorithms** with **step-by-step visuals** ️ and animations ️  
+[algorithm-interview-prep-with-visual ](https://github.com/kimtth/algorithm-interview-prep-with-visual):**Interview algorithms** with **step-by-step visuals** ️ and animations ️  
 [algorithm-neet-code-top-150-python-visual](https://github.com/kimtth/algorithm-neet-code-top-150-python-visual): 👨‍💻**NeetCode 150+** — freeCodeCamp Java to Python with step-by-step visuals ️  
 [aosa_pdf](https://github.com/kimtth/aosa_pdf): **Architecture of Open Source Applications** Vol. 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
 [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot): **Curated list** of **Azure OpenAI** and Copilot resources ️✈️  
-[awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm): **Curated list**: 🌀**Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
+[awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm): **Curated list**: **Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
 [azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): **Azure OpenAI** 100+ sample code — organized by topic.  
 [learn-ai-by-hand-deepseek-solution](https://github.com/kimtth/learn-ai-by-hand-deepseek-solution): **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
 [learn-bilingual-kr-jp-dict-audio](https://github.com/kimtth/learn-bilingual-kr-jp-dict-audio): **Bilingual** Learning Support by **TTS** / NLP / Translation  
 [learn-science-alpha-fold-note](https://github.com/kimtth/learn-science-alpha-fold-note): **AlphaFold** inputs, outputs, and **model architecture** — notes  
-[learn-science-companion-mindmap](https://github.com/kimtth/learn-science-companion-mindmap): 🔬🧬**Science mindmap** — **college-level** science overview  
+[learn-science-companion-mindmap](https://github.com/kimtth/learn-science-companion-mindmap): **Science mindmap** — **college-level** science overview  
 [learn-science-general-relativity](https://github.com/kimtth/learn-science-general-relativity): **General Relativity** (General Theory of Relativity) — notes  
 [ms-build-learn-notes](https://github.com/kimtth/ms-build-learn-notes): **Microsoft products** summary — Azure, .NET, M365, Power Platform, Security, DevOps, Viva, and GitHub.  
 [software-architect-mindmap](https://github.com/kimtth/software-architect-mindmap): 🧠**Mindmap** of **Software engineering**: An Overview of Software Terminologies and Concepts.  
@@ -185,9 +190,9 @@ A+ 2025/07/22
 [util-decompile-python-exe](https://github.com/kimtth/util-decompile-python-exe): **Decompile** .exe files built from Python back to source code (pyc, pyd)  
 [util-ebook-viewer-epub-png](https://github.com/kimtth/util-ebook-viewer-epub-png): **Auto-capture eBook** pages using screen region, detect changes, and save images.  
 [util-ebook-viewer-memory-pdf](https://github.com/kimtth/util-ebook-viewer-memory-pdf): Extract the **PDF** from **memory** to bypass eBook viewer limitations.  
-[util-geotiff-earthquake-extraction](https://github.com/kimtth/util-geotiff-earthquake-extraction): 🗺️**Earthquake** metadata extraction from **GeoTIFF** provided by Quiet+ API (Japan)  
+[util-geotiff-earthquake-extraction](https://github.com/kimtth/util-geotiff-earthquake-extraction): **Earthquake** metadata extraction from **GeoTIFF** provided by Quiet+ API (Japan)  
 [util-google-fitness-synthetic-steps](https://github.com/kimtth/util-google-fitness-synthetic-steps): **Google Fit step-count** synthetic data generator  
-[util-mindmap-maker-clean](https://github.com/kimtth/util-mindmap-maker-clean): 🧹**Mindmap**-maker — cleaned version  
+[util-mindmap-maker-clean](https://github.com/kimtth/util-mindmap-maker-clean): **Mindmap**-maker — cleaned version  
 [util-podcast-download-simple](https://github.com/kimtth/util-podcast-download-simple): **Standalone HTML** — single-file **podcast** episode downloader.  
 [util-podcast-realtime-transcription](https://github.com/kimtth/util-podcast-realtime-transcription): **Podcast** 🎧 + **live transcription** + tap-to-jump navigation  
 [util-screentshot-python](https://github.com/kimtth/util-screentshot-python): **Pure python screen shot** demo  
