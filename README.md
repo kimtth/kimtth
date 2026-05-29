@@ -173,6 +173,7 @@ A+ 2025/07/22
 [learn-ai-by-hand-deepseek-solution](https://github.com/kimtth/learn-ai-by-hand-deepseek-solution): **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
 [learn-bilingual-kr-jp-dict-audio](https://github.com/kimtth/learn-bilingual-kr-jp-dict-audio): **Bilingual** Learning Support by **TTS** / NLP / Translation  
+[learn-intellectual-history](https://github.com/kimtth/learn-intellectual-history): Intellectual history books on **ideas** and the **modern mind** — notes  
 [learn-science-alpha-fold-note](https://github.com/kimtth/learn-science-alpha-fold-note): **AlphaFold** inputs, outputs, and **model architecture** — notes  
 [learn-science-companion-mindmap](https://github.com/kimtth/learn-science-companion-mindmap): **Science mindmap** — **college-level** science overview  
 [learn-science-general-relativity](https://github.com/kimtth/learn-science-general-relativity): **General Relativity** (General Theory of Relativity) — notes  
