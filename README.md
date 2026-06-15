@@ -3,7 +3,9 @@
 - :basecampy: I enjoy exploring current IT trends and technologies.  
 - My repositories are a space for micro-learning and reference.
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) [:whale:](https://gitranks.com/profile/kimtth/ranks)| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)  
-
+<!-- 
+[![llm](https://img.shields.io/badge/llm-871-E53935?style=flat-square)](https://github.com/stars/kimtth/lists/llm) [![sw--dev](https://img.shields.io/badge/sw--dev-418-FB8C00?style=flat-square)](https://github.com/stars/kimtth/lists/sw-dev) [![data](https://img.shields.io/badge/data-104-FDD835?style=flat-square)](https://github.com/stars/kimtth/lists/data) [![industry](https://img.shields.io/badge/industry-96-43A047?style=flat-square)](https://github.com/stars/kimtth/lists/industry) [![etc](https://img.shields.io/badge/etc-50-1E88E5?style=flat-square)](https://github.com/stars/kimtth/lists/etc) [![ms](https://img.shields.io/badge/ms-213-8E24AA?style=flat-square)](https://github.com/stars/kimtth/lists/ms)
+--> 
 <!--  
 A+ 2025/07/22  
 -->  
