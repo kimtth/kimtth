@@ -174,6 +174,7 @@ A+ 2025/07/22
 [azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): **Azure OpenAI** 100+ sample code — organized by topic.  
 [learn-ai-by-hand-deepseek-solution](https://github.com/kimtth/learn-ai-by-hand-deepseek-solution): **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
+[learn-anything-knowledge-bootstrap](https://github.com/kimtth/learn-anything-knowledge-bootstrap): **Obsidian Augmented Knowledge Graph**: Britannica DVD, Wikimedia, and Wikipedia  
 [learn-bilingual-kr-jp-dict-audio](https://github.com/kimtth/learn-bilingual-kr-jp-dict-audio): **Bilingual** Learning Support by **TTS** / NLP / Translation  
 [learn-intellectual-history](https://github.com/kimtth/learn-intellectual-history): Intellectual history books on **ideas** and the **modern mind** — notes  
 [learn-science-alpha-fold-note](https://github.com/kimtth/learn-science-alpha-fold-note): **AlphaFold** inputs, outputs, and **model architecture** — notes  
