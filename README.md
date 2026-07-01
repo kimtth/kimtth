@@ -1,13 +1,13 @@
 ﻿### Hello! 👋  
 
-- :basecampy: I enjoy exploring current IT trends and technologies.  
-- My repositories are a space for micro-learning and reference.
+- :basecampy: Repositories for micro-learning and IT reference.
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> [LinkedIn](https://www.linkedin.com/in/taeho-kim-718020157) | :octocat: [Github](https://github.com/kimtth) [:whale:](https://gitranks.com/profile/kimtth/ranks)| :name_badge: [Credly(Badges)](https://www.credly.com/users/taeho-kim.16c9c429)  
 <!-- 
 [![llm](https://img.shields.io/badge/llm-871-E53935?style=flat-square)](https://github.com/stars/kimtth/lists/llm) [![sw--dev](https://img.shields.io/badge/sw--dev-418-FB8C00?style=flat-square)](https://github.com/stars/kimtth/lists/sw-dev) [![data](https://img.shields.io/badge/data-104-FDD835?style=flat-square)](https://github.com/stars/kimtth/lists/data) [![industry](https://img.shields.io/badge/industry-96-43A047?style=flat-square)](https://github.com/stars/kimtth/lists/industry) [![etc](https://img.shields.io/badge/etc-50-1E88E5?style=flat-square)](https://github.com/stars/kimtth/lists/etc) [![ms](https://img.shields.io/badge/ms-213-8E24AA?style=flat-square)](https://github.com/stars/kimtth/lists/ms)
 --> 
 <!--  
 A+ 2025/07/22  
+512 stars 2026/06/30
 -->  
 
 [![Github stats](https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=kimtth&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&card_width=300&hide_title=true&line_height=30&cache_seconds=1000)](https://github.com/kimtth)  
@@ -170,8 +170,8 @@ A+ 2025/07/22
 [algorithm-neet-code-top-150-python-visual](https://github.com/kimtth/algorithm-neet-code-top-150-python-visual): 👨‍💻**NeetCode 150+** — freeCodeCamp Java to Python with step-by-step visuals ️  
 [aosa_pdf](https://github.com/kimtth/aosa_pdf): **Architecture of Open Source Applications** Vol. 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
 [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot): **Curated list** of **Azure OpenAI** and Copilot resources ️✈️  
-[awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm): **Curated list**: **Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
 [azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): **Azure OpenAI** 100+ sample code — organized by topic.  
+[azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki): **Curated list**: **Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
 [learn-ai-by-hand-deepseek-solution](https://github.com/kimtth/learn-ai-by-hand-deepseek-solution): **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
 [learn-anything-knowledge-bootstrap](https://github.com/kimtth/learn-anything-knowledge-bootstrap): **Obsidian Augmented Knowledge Graph**: Britannica DVD, Wikimedia, and Wikipedia  
