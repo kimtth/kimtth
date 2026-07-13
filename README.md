@@ -196,6 +196,7 @@ A+ 2025/07/22
 [util-ebook-viewer-memory-pdf](https://github.com/kimtth/util-ebook-viewer-memory-pdf): Extract the **PDF** from **memory** to bypass eBook viewer limitations.  
 [util-geotiff-earthquake-extraction](https://github.com/kimtth/util-geotiff-earthquake-extraction): **Earthquake** metadata extraction from **GeoTIFF** provided by Quiet+ API (Japan)  
 [util-google-fitness-synthetic-steps](https://github.com/kimtth/util-google-fitness-synthetic-steps): **Google Fit step-count** synthetic data generator  
+[util-meetly-lite](https://github.com/kimtth/util-meetly-lite): Local meeting **screen recording** and **speech-to-text** (Whisper.cpp & Azure Speech)   
 [util-mindmap-maker-clean](https://github.com/kimtth/util-mindmap-maker-clean): **Mindmap**-maker — cleaned version  
 [util-podcast-download-simple](https://github.com/kimtth/util-podcast-download-simple): **Standalone HTML** — single-file **podcast** episode downloader.  
 [util-podcast-realtime-transcription](https://github.com/kimtth/util-podcast-realtime-transcription): **Podcast** 🎧 + **live transcription** + tap-to-jump navigation  
