@@ -32,10 +32,11 @@ A+ 2025/07/22
 [agent-orca-cli](https://github.com/kimtth/agent-orca-cli): Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): **AI agent orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): **Agent Framework** + **Agent 365** integration — extends agent for M365 MCP   
+[agent-pptify-kit](https://github.com/kimtth/agent-pptify-kit): 🎨Agent-driven toolkit for generating **editable PowerPoint slides**  
 [agent-reward-grpo](https://github.com/kimtth/agent-reward-grpo): Reward-driven agent tuning with **GRPO** to build adaptive, **learnable agents**      
+[agent-skill-100-lines-or-less](https://github.com/kimtth/agent-skill-100-lines-or-less): 🤏Minimal but effective AI **agent skill** definitions in **100 lines or less**.  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
-[agent-pptify-kit](https://github.com/kimtth/pptify-kit): 🎨Agent-driven toolkit for generating **editable PowerPoint slides**  
-[agent-skill-100-lines-or-less](https://github.com/kimtth/skill-100-lines-or-less): 🤏Minimal but effective AI **agent skill** definitions in **100 lines or less**.  
+[craft-zen-token-optimizer](https://github.com/kimtth/craft-zen-token-optimizer): **Agent instruction optimization** — compact rewrites with semantic checks and reviewable drafts, without a user-supplied labeled dataset.  
 [sre-agent](https://github.com/kimtth/sre-agent): **Azure SRE Agent** issue and feedback hub for reliability operations.  
 [TinyTroupe](https://github.com/kimtth/TinyTroupe): [Mod] **LLM-powered** multiagent **persona simulation** for imagination enhancement and business insights.  
 
@@ -53,8 +54,8 @@ A+ 2025/07/22
 
 #### Azure  
 
-[azure-ai-caption-serveless-mp3](https://github.com/kimtth/ai-caption-serveless-mp3): **Azure Functions** app for **MP3** conversion in an AI caption workflow.  
-[azure-ai-caption-teams-in-meeting](https://github.com/kimtth/ai-caption-teams-in-meeting): **Microsoft Teams** in-meeting side panel for **AI caption** experiences.  
+[azure-ai-caption-serveless-mp3](https://github.com/kimtth/azure-ai-caption-serveless-mp3): **Azure Functions** app for **MP3** conversion in an AI caption workflow.  
+[azure-ai-caption-teams-in-meeting](https://github.com/kimtth/azure-ai-caption-teams-in-meeting): **Microsoft Teams** in-meeting side panel for **AI caption** experiences.  
 [azure-bicep-apim-app-gw](https://github.com/kimtth/azure-bicep-apim-app-gw): **Azure Bicep** script that receives requests from **App Gateway** and routes them through APIM  
 [azure-bicep-app-service-cosmos-db](https://github.com/kimtth/azure-bicep-app-service-cosmos-db): ️ **Bicep** (IaC) — secure Azure infra with **Private Link** & Endpoints in a VNet  
 [azure-bicep-data-platform-laC](https://github.com/kimtth/azure-bicep-data-platform-laC): ️ Azure Data platform **Infrastructure as Code** (Datafactory, Databricks, Synapse Analytics)  
@@ -108,7 +109,7 @@ A+ 2025/07/22
 [mini-copilot](https://github.com/kimtth/mini-copilot): 🤏**Domain-Specific Language** (DSL) approach — generating **DSL scripts** using LLM and user queries to execute office API.  
 [mini-jerry-web-render-was](https://github.com/kimtth/mini-jerry-web-render-was): **How web works** inside client and server side — focusing on **browser** and web server.  
 [mini-notebooklm-agent-pptx](https://github.com/kimtth/mini-notebooklm-agent-pptx): **Mini NotebookLM for PPTX** — contract-based slide rendering with long-context understanding.   
-[mini-polar-bear-office](https://github.com/kimtth/mini-polar-bear-office): **Mini Office 365** — docx, pptx, xlsx — wasm + rust + oss  
+[mini-office-polar-bear](https://github.com/kimtth/mini-office-polar-bear): **Mini Office 365** — docx, pptx, xlsx — wasm + rust + oss  
 [mini-small-dsl-eclipse-debug](https://github.com/kimtth/mini-small-dsl-eclipse-debug): [archived] **Domain-Specific Language**, Integration with the **Eclipse Debug UI**, and Debugger.  
 [mini-sqlite-engine-py-go-rust](https://github.com/kimtth/mini-sqlite-engine-py-go-rust): **Mini-SQLite** database engine — learn **Rust** & **Golang** (for Python users)  
 [mini-xmpp-socketio-rabbitmq](https://github.com/kimtth/mini-xmpp-socketio-rabbitmq): **XMPP** with xmpp.js, Websocket with Socket.io, AMQP with RabbitMQ in Docker.  
@@ -121,7 +122,7 @@ A+ 2025/07/22
 [devops-elasticsearch-dockerfile-analyzer](https://github.com/kimtth/devops-elasticsearch-dockerfile-analyzer): **docker-compose** for **elastic search** & kibana  
 [devops-hello-auto-robot-selenium](https://github.com/kimtth/devops-hello-auto-robot-selenium): [archived] **Test Automation** with **Selenium** and Robot Framework  
 [devops-hinemos-ntt-qualisystems](https://github.com/kimtth/devops-hinemos-ntt-qualisystems): ️ **Hinemos** Cloud Shell Draft  
-[devops-iot-kafka-automq-microk8s](https://github.com/kimtth/devops-iot-kafka-automq-microk8s): **IoT** data pipeline built with Apache **Kafka** & AutoMQ and MicroK8s  
+[devops-iot-kafka-automq-minikube](https://github.com/kimtth/devops-iot-kafka-automq-minikube): **IoT** data pipeline built with Apache **Kafka** & AutoMQ and MicroK8s  
 [devops-openstack-dev-cloudshell](https://github.com/kimtth/devops-openstack-dev-cloudshell): **OpenStack** integration with Quali **CloudShell**  
 [devops-powershell-git-commit-with-split](https://github.com/kimtth/devops-powershell-git-commit-with-split): **Split** big-size repositories into **multiple commits** to prevent network hang-ups.  
 [devops-ppf-vnet-terraform-github-actions](https://github.com/kimtth/devops-ppf-vnet-terraform-github-actions): [Note] **GitHub Actions** for **Azure and Power Platform VNet Integration** Using **Terraform**  
@@ -129,18 +130,19 @@ A+ 2025/07/22
 
 #### Microsoft Platforms  
 
+[craft-IQ-compiler](https://github.com/kimtth/craft-IQ-compiler): **Local-first agent workspace** for chat, creation, and knowledge sharing — **Work IQ**, Fabric IQ, and Foundry IQ.  
 [ms-fabric-agentic-banking-app](https://github.com/kimtth/ms-fabric-agentic-banking-app): Agentic **Banking** App with SQL in **Fabric** (OLTP/OLAP/Agent/Power BI)  
 [ms-fabric-auto-maintenance](https://github.com/kimtth/ms-fabric-auto-maintenance): End-to-end **automotive predictive maintenance** on Microsoft Fabric  
 [ms-fabric-data-agent-user-auth-delegation](https://github.com/kimtth/ms-fabric-data-agent-user-auth-delegation): Fabric Data Agent with **Delegated Access (RLS, CLS)**  
-[ms-fabric-dev-starter](https://github.com/kimtth/ms-fabric-dev-starter): 🌿 Microsoft Fabric - Scaffolding template for Microsoft Fabric development with AI coding agents    
 [ms-fabric-e2e-tutorial](https://github.com/kimtth/ms-fabric-e2e-tutorial):**Microsoft Fabric** E2E Tutorial: Lakehouse | Data Science | Real-Time Intelligence | Data warehouse  
 [ms-fabric-hands-on](https://github.com/kimtth/ms-fabric-hands-on): **Microsoft Fabric / Power BI** Hands-on  
+[ms-fabric-skills-dev-starter](https://github.com/kimtth/ms-fabric-skills-dev-starter): 🌿 Microsoft Fabric - Scaffolding template for Microsoft Fabric development with AI coding agents    
 [ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): Microsoft Fabric **Medallion architecture** Stock Prediction Pipeline  
 [ms-graph-api-batch-calls](https://github.com/kimtth/ms-graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)   
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-bi-ingest](https://github.com/kimtth/power-bi-ingest): **Power BI** context generator (table relationships and DAX) for LLMs  
 [ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
-[ppf-migrate-gui-to-power-apps-code-apps](https://github.com/kimtth/ppf-migrate-gui-to-power-apps-code-apps): **Power Apps Code Apps** — migrate sample GUI application  
+[ppf-gui-to-power-apps-code-apps](https://github.com/kimtth/ppf-gui-to-power-apps-code-apps): **Power Apps Code Apps** — migrate sample GUI application  
 [ppf-playbook](https://github.com/kimtth/ppf-playbook): **Power BI**, Power Apps, **Power Automate**, and Power Virtual Agents, AI Builder  
 [ppf-powerapp-ingest](https://github.com/kimtth/ppf-powerapp-ingest): **Power Apps** context generator (UI hierarchies and Power Fx)  
 
@@ -160,6 +162,7 @@ A+ 2025/07/22
 
 [agent-connected-vehicle-platform](https://github.com/kimtth/agent-connected-vehicle-platform): 🚗Agentic **Connected Vehicle** Platform — Agent **orchestration**, MCP, Avatar TTS  
 [agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 💱**Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
+[craft-intelligence-investment-terminal](https://github.com/kimtth/craft-intelligence-investment-terminal): [Empty] Newly created repository; no files or description published yet.  
 [domain-finance-quant-sandbox](https://github.com/kimtth/domain-finance-quant-sandbox): **Quantitative finance** sandbox  
 [domain-virtual-buddies-neurodiverse](https://github.com/kimtth/domain-virtual-buddies-neurodiverse): **Copilot** for **neurodiverse** children — language learning and communication support.  
 [visual-genius](https://github.com/kimtth/visual-genius): 🪅**Visual learning** aids for children with **Autism Spectrum Disorder** — Visual card generation, communication through cards, letterboard.  
@@ -168,24 +171,25 @@ A+ 2025/07/22
 
 [algorithm-interview-prep-with-visual ](https://github.com/kimtth/algorithm-interview-prep-with-visual):**Interview algorithms** with **step-by-step visuals** ️ and animations ️  
 [algorithm-neet-code-top-150-python-visual](https://github.com/kimtth/algorithm-neet-code-top-150-python-visual): 👨‍💻**NeetCode 150+** — freeCodeCamp Java to Python with step-by-step visuals ️  
-[aosa_pdf](https://github.com/kimtth/aosa_pdf): **Architecture of Open Source Applications** Vol. 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
+[aosa-pdf](https://github.com/kimtth/aosa-pdf): **Architecture of Open Source Applications** Vol. 1 & 2, 500 Lines or Less, Software Design by Example (PDF)  
 [awesome-azure-openai-copilot](https://github.com/kimtth/awesome-azure-openai-copilot): **Curated list** of **Azure OpenAI** and Copilot resources ️✈️  
 [azure-openai-llm-cookbook](https://github.com/kimtth/azure-openai-llm-cookbook): **Azure OpenAI** 100+ sample code — organized by topic.  
-[azure-openai-llm-wiki](https://github.com/kimtth/azure-openai-llm-wiki): **Curated list**: **Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
+[azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes): **Curated list**: **Azure OpenAI**, **Large Language Models** (RAG, Agent), and references.  
 [learn-ai-by-hand-deepseek-solution](https://github.com/kimtth/learn-ai-by-hand-deepseek-solution): **AI-by-hand**: Multi-head **Latent Attention**, RoPE, and MoE in Deepseek.  
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
-[learn-anything-knowledge-bootstrap](https://github.com/kimtth/learn-anything-knowledge-bootstrap): **Obsidian Augmented Knowledge Graph**: Britannica DVD, Wikimedia, and Wikipedia  
+[learn-anything-knowledge-primer](https://github.com/kimtth/learn-anything-knowledge-primer): **Obsidian Augmented Knowledge Graph**: Britannica DVD, Wikimedia, and Wikipedia  
 [learn-bilingual-kr-jp-dict-audio](https://github.com/kimtth/learn-bilingual-kr-jp-dict-audio): **Bilingual** Learning Support by **TTS** / NLP / Translation  
 [learn-intellectual-history](https://github.com/kimtth/learn-intellectual-history): Intellectual history books on **ideas** and the **modern mind** — notes  
 [learn-science-alpha-fold-note](https://github.com/kimtth/learn-science-alpha-fold-note): **AlphaFold** inputs, outputs, and **model architecture** — notes  
 [learn-science-companion-mindmap](https://github.com/kimtth/learn-science-companion-mindmap): **Science mindmap** — **college-level** science overview  
 [learn-science-general-relativity](https://github.com/kimtth/learn-science-general-relativity): **General Relativity** (General Theory of Relativity) — notes  
-[ms-build-learn-notes](https://github.com/kimtth/ms-build-learn-notes): **Microsoft products** summary — Azure, .NET, M365, Power Platform, Security, DevOps, Viva, and GitHub.  
+[ms-learn-study-notes](https://github.com/kimtth/ms-learn-study-notes): **Microsoft products** summary — Azure, .NET, M365, Power Platform, Security, DevOps, Viva, and GitHub.  
 [software-architect-mindmap](https://github.com/kimtth/software-architect-mindmap): 🧠**Mindmap** of **Software engineering**: An Overview of Software Terminologies and Concepts.  
 
 #### Utilities & Tools
 
 [chatbot-ui](https://github.com/kimtth/chatbot-ui): [Mod] **Open source ChatGPT UI**.  
+[craft-meetily-lite](https://github.com/kimtth/craft-meetily-lite): Local meeting **screen recording** and **speech-to-text** (Whisper.cpp & Azure Speech)   
 [Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi](https://github.com/kimtth/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi): [Note] **Troubleshooting** for FNK0043  
 [split-image](https://github.com/kimtth/split-image): **Split** image into **rows and columns** (tiles) — Python package.  
 [util-chat-llamaindex-azure-openai](https://github.com/kimtth/util-chat-llamaindex-azure-openai): **LlamaIndex** chat customized for **Azure OpenAI**  
@@ -196,7 +200,6 @@ A+ 2025/07/22
 [util-ebook-viewer-memory-pdf](https://github.com/kimtth/util-ebook-viewer-memory-pdf): Extract the **PDF** from **memory** to bypass eBook viewer limitations.  
 [util-geotiff-earthquake-extraction](https://github.com/kimtth/util-geotiff-earthquake-extraction): **Earthquake** metadata extraction from **GeoTIFF** provided by Quiet+ API (Japan)  
 [util-google-fitness-synthetic-steps](https://github.com/kimtth/util-google-fitness-synthetic-steps): **Google Fit step-count** synthetic data generator  
-[util-meetly-lite](https://github.com/kimtth/util-meetly-lite): Local meeting **screen recording** and **speech-to-text** (Whisper.cpp & Azure Speech)   
 [util-mindmap-maker-clean](https://github.com/kimtth/util-mindmap-maker-clean): **Mindmap**-maker — cleaned version  
 [util-podcast-download-simple](https://github.com/kimtth/util-podcast-download-simple): **Standalone HTML** — single-file **podcast** episode downloader.  
 [util-podcast-realtime-transcription](https://github.com/kimtth/util-podcast-realtime-transcription): **Podcast** 🎧 + **live transcription** + tap-to-jump navigation  
