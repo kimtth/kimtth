@@ -26,13 +26,13 @@
 [agent-ai-foundry-tool-use](https://github.com/kimtth/agent-ai-foundry-tool-use): **Tool use** patterns with an agent built using **Azure AI Foundry**.  
 [agent-artifact-driven-consulting](https://github.com/kimtth/agent-artifact-driven-consulting): **ADR** (Architecture Decision Record), PRD, TDD, TASK driven consulting Agent  
 [agent-data-analyst-stream-chainlit](https://github.com/kimtth/agent-data-analyst-stream-chainlit): Chainlit **Data Analyst** Chat Agent (**Server Sent Events**)  
-[agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): 🦅Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
+[agent-guidance-driven-workflow](https://github.com/kimtth/agent-guidance-driven-workflow): Parlant's **ARQ (Attentive Reasoning Queries)** into **Microsoft Agent Framework**  
 [agent-mini-pregel](https://github.com/kimtth/agent-mini-pregel): Mini Google **Pregel (graph engine)** + switching between **deterministic workflows** and **indeterministic agents**  
 [agent-multi-agent-simulator](https://github.com/kimtth/agent-multi-agent-simulator): ⚛️**Multi Agent Simulator** — visualize agent interactions  
 [agent-orca-cli](https://github.com/kimtth/agent-orca-cli): Orca CLI – Agent **Skill SubAgent Plugin Manager**  
 [agent-orchestration-sk-autogen](https://github.com/kimtth/agent-ochestration-sk-autogen): **AI agent orchestration** patterns with **Semantic Kernel** and AutoGen.  
 [agent-plus-with-agent365](https://github.com/kimtth/agent-plus-with-agent365): **Agent Framework** + **Agent 365** integration — extends agent for M365 MCP   
-[agent-pptify-kit](https://github.com/kimtth/agent-pptify-kit): 🎨Agent-driven toolkit for generating **editable PowerPoint slides**  
+[agent-pptify-kit](https://github.com/kimtth/agent-pptify-kit): Agent-driven toolkit for generating **editable PowerPoint slides**  
 [agent-reward-grpo](https://github.com/kimtth/agent-reward-grpo): Reward-driven agent tuning with **GRPO** to build adaptive, **learnable agents**      
 [agent-skill-100-lines-or-less](https://github.com/kimtth/agent-skill-100-lines-or-less): 🤏Minimal but effective AI **agent skill** definitions in **100 lines or less**.  
 [agent-to-agent-ms](https://github.com/kimtth/agent-to-agent-ms): **Agent-to-agent** interaction examples across multiple platforms and libraries in Microsoft  
@@ -137,6 +137,8 @@
 [ms-fabric-skills-dev-starter](https://github.com/kimtth/ms-fabric-skills-dev-starter): 🌿Microsoft Fabric - Scaffolding template for Microsoft Fabric development with AI coding agents    
 [ms-fabric-stock-prediction-pipeline](https://github.com/kimtth/ms-fabric-stock-prediction-pipeline): Microsoft Fabric **Medallion architecture** Stock Prediction Pipeline  
 [ms-graph-api-batch-calls](https://github.com/kimtth/ms-graph-api-batch-calls): Small-batch Microsoft **Graph API** calls (find_meeting_times)   
+[ms-graph-connector-mcp-acl](https://github.com/kimtth/ms-graph-connector-mcp-acl): **Graph connector** + **MCP server** for Copilot to search, fetch and update external records.  
+[ms-workiq-vs-graph-api](https://github.com/kimtth/ms-workiq-vs-graph-api): A demo app comparing **WorkIQ** calls with **Microsoft Graph API** flows for Microsoft 365 tasks.  
 [power-bi-cross-join-report](https://github.com/kimtth/power-bi-cross-join-report): **Power BI** **Cross Join** Report Example — Combine Tables with No Key  
 [power-bi-ingest](https://github.com/kimtth/power-bi-ingest): **Power BI** context generator (table relationships and DAX) for LLMs  
 [ppf-azure-devops-pipeline](https://github.com/kimtth/ppf-azure-devops-pipeline): **Power Platform ALM** with Pipeline and🚦**Azure DevOps**   
@@ -150,7 +152,7 @@
 [azure-document-intelligence-vs-markitdown-vs-tika](https://github.com/kimtth/azure-document-intelligence-vs-markitdown-vs-tika): **Azure Document Intelligence** (layout model) vs Markitdown ️vs Apache Tika  
 [azure-prompt-flow-qa-rag](https://github.com/kimtth/azure-prompt-flow-qa-rag): Azure ML **Prompt flow** Integration with Azure AI Search (**Vector Search**)  
 [rag-ai-search-index-blob-trigger](https://github.com/kimtth/rag-ai-search-index-blob-trigger): **Azure AI Search index creation** triggered by Azure Function **Blob Trigger**  
-[rag-graph-rag-azure-openai](https://github.com/kimtth/rag-graph-rag-azure-openai): 🕸️**GraphRAG v2** API (From Local to Global: arxiv.org/abs/2404.16130) **Playground**  
+[rag-graph-rag-azure-openai](https://github.com/kimtth/rag-graph-rag-azure-openai): **GraphRAG v2** API (From Local to Global: arxiv.org/abs/2404.16130) **Playground**  
 [rag-minimum-azure-ai-search](https://github.com/kimtth/rag-minimum-azure-ai-search): **Azure AI Search Index creation** for **FAQ retrieval**. (csv Indexer)  
 [rag-minimum-azure-ai-search-sql-indexer](https://github.com/kimtth/rag-minimum-azure-ai-search-sql-indexer): Azure AI Search Index creation for FAQ retrieval. (**SQL Indexer**: pull & push)  
 [rag-multimodal-semantic-chunking](https://github.com/kimtth/rag-multimodal-semantic-chunking): ️ E2E **Multi-modal** Document Preprocessing with Azure **Document Intelligence**  
@@ -159,8 +161,8 @@
 #### Applications & Domain Solutions  
 
 [agent-connected-vehicle-platform](https://github.com/kimtth/agent-connected-vehicle-platform): 🚗Agentic **Connected Vehicle** Platform — Agent **orchestration**, MCP, Avatar TTS  
-[agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): 💱**Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
-[craft-intelligence-investment-terminal](https://github.com/kimtth/craft-intelligence-investment-terminal): [Empty] Newly created repository; no files or description published yet.  
+[agent-quant-stock-invest](https://github.com/kimtth/agent-quant-stock-invest): **Agent-based** stock analysis and **investment strategy** application (Agent Framework, AutoGen)  
+[craft-intelligence-investment-terminal](https://github.com/kimtth/craft-intelligence-investment-terminal): A investment research terminal with market charts, strategy backtesting.  
 [craft-IQ-compiler](https://github.com/kimtth/craft-IQ-compiler): **Local-first agent workspace** for chat, creation, and knowledge sharing — **Work IQ**, Fabric IQ, and Foundry IQ.  
 [craft-meetily-lite](https://github.com/kimtth/craft-meetily-lite): Windows **screen recording** and **transcription** (Foundry Local & Azure Speech)   
 [craft-zen-token-optimizer](https://github.com/kimtth/craft-zen-token-optimizer): **Agent instruction compression** with semantic checks — no labeled dataset needed.  
@@ -180,6 +182,7 @@
 [learn-anki-deck-es-fr-de-it-cn](https://github.com/kimtth/learn-anki-deck-es-fr-de-it-cn): **Anki decks**: ES / FR / DE / IT **A1→B2** / HSK 1→9  
 [learn-anything-knowledge-primer](https://github.com/kimtth/learn-anything-knowledge-primer): **Obsidian Augmented Knowledge Graph**: Britannica DVD, Wikimedia, and Wikipedia  
 [learn-bilingual-kr-jp-dict-audio](https://github.com/kimtth/learn-bilingual-kr-jp-dict-audio): **Bilingual** Learning Support by **TTS** / NLP / Translation  
+[learn-cosmopedia-dist](https://github.com/kimtth/learn-cosmopedia-dist): **Cosmopedia** combines entries from four encyclopedias into a single reference work.   
 [learn-intellectual-history](https://github.com/kimtth/learn-intellectual-history): Intellectual history books on **ideas** and the **modern mind** — notes  
 [learn-science-alpha-fold-note](https://github.com/kimtth/learn-science-alpha-fold-note): **AlphaFold** inputs, outputs, and **model architecture** — notes  
 [learn-science-companion-mindmap](https://github.com/kimtth/learn-science-companion-mindmap): **Science mindmap** — **college-level** science overview  
@@ -217,4 +220,3 @@
 **[`↑↑        back to top        `](#hello-)**  
 
 </details>  
-
